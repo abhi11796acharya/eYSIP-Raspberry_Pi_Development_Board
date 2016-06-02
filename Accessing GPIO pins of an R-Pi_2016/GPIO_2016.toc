@@ -3,8 +3,8 @@
 \contentsline {section}{\numberline {3}Hardware Requirement}{3}
 \contentsline {section}{\numberline {4}Software Requirement}{3}
 \contentsline {section}{\numberline {5}Theory and Description}{4}
-\contentsline {section}{\numberline {6}Experiment}{12}
-\contentsline {subsection}{\numberline {6.1}Interfacing an LED with R-Pi}{12}
-\contentsline {subsection}{\numberline {6.2}Interfacing a Push button with R-Pi}{14}
-\contentsline {subsection}{\numberline {6.3} Controlling an led using a push button.}{15}
-\contentsline {section}{\numberline {7}References}{16}
+\contentsline {section}{\numberline {6}Experiment}{6}
+\contentsline {subsection}{\numberline {6.1}Interfacing an LED with R-Pi(BCM mode)}{6}
+\contentsline {subsection}{\numberline {6.2}Interfacing a Push button with R-Pi(Board Mode)}{8}
+\contentsline {subsection}{\numberline {6.3} Controlling an led using a push button.}{9}
+\contentsline {section}{\numberline {7}References}{10}

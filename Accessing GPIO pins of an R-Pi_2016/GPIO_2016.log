@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  1 JUN 2016 20:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  2 JUN 2016 18:03
 entering extended mode
 **GPIO_2016.tex
 
@@ -164,91 +164,13 @@ Package pdftex.def Info: RaspberryPi2_pinout.jpg used on input line 72.
 (pdftex.def)             Requested size: 342.08064pt x 249.33342pt.
  [5 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of 
 an R-Pi_2016/RaspberryPi2_pinout.jpg>]
-<idle3.png, id=25, 602.25pt x 589.20125pt>
-File: idle3.png Graphic file (type png)
- <use idle3.png>
-Package pdftex.def Info: idle3.png used on input line 96.
-(pdftex.def)             Requested size: 284.53705pt x 227.62085pt.
-
-<py.png, id=26, 1028.34187pt x 548.0475pt>
-File: py.png Graphic file (type png)
- <use py.png>
-Package pdftex.def Info: py.png used on input line 111.
-(pdftex.def)             Requested size: 411.32947pt x 219.2151pt.
-
-Overfull \hbox (51.32947pt too wide) in paragraph at lines 111--113
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[6 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of a
-n R-Pi_2016/idle3.png>] <1.png, id=32, 1026.83624pt x 536.75531pt>
-File: 1.png Graphic file (type png)
- <use 1.png>
-Package pdftex.def Info: 1.png used on input line 117.
-(pdftex.def)             Requested size: 410.72722pt x 214.6983pt.
-
-Overfull \hbox (50.72722pt too wide) in paragraph at lines 117--119
- [][] 
- []
-
-[7 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of a
-n R-Pi_2016/py.png> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessi
-ng GPIO pins of an R-Pi_2016/1.png>] <2.png, id=39, 1028.34187pt x 548.0475pt>
-File: 2.png Graphic file (type png)
-
-<use 2.png>
-Package pdftex.def Info: 2.png used on input line 126.
-(pdftex.def)             Requested size: 411.32947pt x 219.2151pt.
-
-Overfull \hbox (51.32947pt too wide) in paragraph at lines 126--128
- [][] 
- []
-
-[8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of a
-n R-Pi_2016/2.png>] <3.png, id=45, 1028.34187pt x 548.0475pt>
-File: 3.png Graphic file (type png)
- <use 3.png>
-Package pdftex.def Info: 3.png used on input line 136.
-(pdftex.def)             Requested size: 411.32947pt x 219.2151pt.
-
-Overfull \hbox (51.32947pt too wide) in paragraph at lines 136--138
- [][] 
- []
-
-[9 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of a
-n R-Pi_2016/3.png>] <4.png, id=50, 1028.34187pt x 548.80031pt>
-File: 4.png Graphic file (type png)
- <use 4.png>
-Package pdftex.def Info: 4.png used on input line 150.
-(pdftex.def)             Requested size: 411.32947pt x 219.51622pt.
-
-Overfull \hbox (51.32947pt too wide) in paragraph at lines 150--152
- [][] 
- []
-
-<5.png, id=51, 1028.34187pt x 548.0475pt>
-File: 5.png Graphic file (type png)
- <use 5.png>
-Package pdftex.def Info: 5.png used on input line 155.
-(pdftex.def)             Requested size: 411.32947pt x 219.2151pt.
-
-Overfull \hbox (51.32947pt too wide) in paragraph at lines 155--157
- [][] 
- []
-
-[10 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of 
-an R-Pi_2016/4.png> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessi
-ng GPIO pins of an R-Pi_2016/5.png>] [11]
-<Led.png, id=60, 597.73312pt x 411.78844pt>
+<Led.png, id=25, 597.73312pt x 411.78844pt>
 File: Led.png Graphic file (type png)
  <use Led.png>
-Package pdftex.def Info: Led.png used on input line 175.
+Package pdftex.def Info: Led.png used on input line 92.
 (pdftex.def)             Requested size: 239.089pt x 164.71245pt.
- [12 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of
- an R-Pi_2016/Led.png>]
+ [6 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of 
+an R-Pi_2016/Led.png>]
 ("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.
 sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
@@ -269,11 +191,17 @@ Overfull \hbox (21.06396pt too wide) in paragraph at lines 10--11
 [][][][][][][][][][][][][][][][][][][][][] 
  []
 
-) [13] <pb.png, id=69, 371.88937pt x 266.49562pt>
+
+Overfull \hbox (211.59595pt too wide) in paragraph at lines 19--20
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][] 
+ []
+
+) [7] <pb.png, id=36, 342.5297pt x 271.76532pt>
 File: pb.png Graphic file (type png)
  <use pb.png>
-Package pdftex.def Info: pb.png used on input line 195.
-(pdftex.def)             Requested size: 223.13533pt x 159.89859pt.
+Package pdftex.def Info: pb.png used on input line 112.
+(pdftex.def)             Requested size: 205.5194pt x 163.06044pt.
 
 ("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Accessing GPIO pins of an 
 R-Pi_2016\Pushbutton_2016.py"
@@ -282,8 +210,8 @@ Overfull \hbox (34.2041pt too wide) in paragraph at lines 1--2
  []
 
 
-Overfull \hbox (113.04492pt too wide) in paragraph at lines 7--8
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (132.75513pt too wide) in paragraph at lines 7--8
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
@@ -311,13 +239,25 @@ Overfull \hbox (40.77417pt too wide) in paragraph at lines 17--18
 [][][][][][][][][][][][][][][][][][][][] 
  []
 
-) [14 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins o
-f an R-Pi_2016/pb.png>] <GPIO.png, id=74, 478.78876pt x 355.3275pt>
+) [8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of
+ an R-Pi_2016/pb.png>] <GPIO.png, id=41, 353.06906pt x 274.02374pt>
 File: GPIO.png Graphic file (type png)
 
 <use GPIO.png>
-Package pdftex.def Info: GPIO.png used on input line 213.
-(pdftex.def)             Requested size: 191.5121pt x 142.12846pt.
+Package pdftex.def Info: GPIO.png used on input line 130.
+(pdftex.def)             Requested size: 141.22511pt x 109.60754pt.
+ <pcb_front.png, id=42, 222.07968pt x 191.21437pt>
+File: pcb_front.png Graphic file (type png)
+
+<use pcb_front.png>
+Package pdftex.def Info: pcb_front.png used on input line 143.
+(pdftex.def)             Requested size: 88.83029pt x 76.48439pt.
+ <back_track.png, id=43, 222.8325pt x 191.9672pt>
+File: back_track.png Graphic file (type png)
+
+<use back_track.png>
+Package pdftex.def Info: back_track.png used on input line 147.
+(pdftex.def)             Requested size: 89.13141pt x 76.7855pt.
 
 ("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Accessing GPIO pins of an 
 R-Pi_2016\switchpress_LED(GPIO).py"
@@ -325,7 +265,10 @@ Overfull \hbox (34.2041pt too wide) in paragraph at lines 1--2
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-
+[9 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of a
+n R-Pi_2016/GPIO.png> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Acces
+sing GPIO pins of an R-Pi_2016/pcb_front.png> <D:/Internship/eYSIP-Raspberry_Pi
+_Development_Board/Accessing GPIO pins of an R-Pi_2016/back_track.png>]
 Overfull \hbox (113.04492pt too wide) in paragraph at lines 7--8
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -335,33 +278,17 @@ Overfull \hbox (106.47485pt too wide) in paragraph at lines 8--9
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-
-Overfull \hbox (27.63403pt too wide) in paragraph at lines 13--14
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[15 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of 
-an R-Pi_2016/GPIO.png>]
-Overfull \hbox (60.48438pt too wide) in paragraph at lines 20--21
-[][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (40.77417pt too wide) in paragraph at lines 21--22
-[][][][][][][][][][][][][][][][][][][][] 
- []
-
-) [16]
+) [10]
 ("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Accessing GPIO pins of an 
 R-Pi_2016\GPIO_2016.aux") ) 
 Here is how much of TeX's memory you used:
- 2693 strings out of 493921
- 38081 string characters out of 3147261
- 122816 words of memory out of 3000000
- 5977 multiletter control sequences out of 15000+200000
+ 2669 strings out of 493921
+ 37929 string characters out of 3147261
+ 123419 words of memory out of 3000000
+ 5958 multiletter control sequences out of 15000+200000
  9325 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,7n,43p,438b,1476s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,43p,242b,1474s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
@@ -370,9 +297,9 @@ gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on GPIO_2016.pdf (16 pages, 920663 bytes).
+Output written on GPIO_2016.pdf (10 pages, 520774 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

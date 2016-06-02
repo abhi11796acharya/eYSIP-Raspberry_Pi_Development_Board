@@ -13,15 +13,16 @@ def blink(pin):
         time.sleep(1)
         return 
 
-# to use Raspberry Pi board pin numbers
-GPIO.setmode(GPIO.BOARD)
+# to use Raspberry Pi BCM pin 
+GPIO.setmode(GPIO.BCM)
 
-# set up GPIO output channel i.e. on pin 12 
-GPIO.setup(35, GPIO.OUT)
+# setting the GPIO 19 as output(i.e IC pin 35) since we are using board in 'BOARD MODE'
+# so refering the IC pin
+GPIO.setup(19, GPIO.OUT)
 
-# blink GPIO18 10 times
+# blink GPIO 19(i.e IC pin 35) 10 times
 for i in range(0,10):
-        blink(35) # call 
+        blink(19) # call 
 
 #to clean up all the ports used
 GPIO.cleanup()
