@@ -1,0 +1,384 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.22)  7 JUN 2016 15:32
+entering extended mode
+**./adc_interfacing_SPI.tex
+(adc_interfacing_SPI.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics
+.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex
+.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.sty"
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.
+sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings
+.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ (adc_interfacing_SPI.aux)
+\openout1 = `adc_interfacing_SPI.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen110
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks17
+)
+\c@lstlisting=\count102
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+ [1
+
+{C:/Users/dell 1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(adc_interfacing_SPI.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 6.
+)
+\tf@toc=\write3
+\openout3 = `adc_interfacing_SPI.toc'.
+
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
+
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+
+[3] <mcp.jpg, id=17, 259.7203pt x 222.8325pt>
+File: mcp.jpg Graphic file (type jpg)
+ <use mcp.jpg>
+Package pdftex.def Info: mcp.jpg used on input line 58.
+(pdftex.def)             Requested size: 181.80296pt x 155.98167pt.
+ [4 <./mcp.jpg>]
+<1.jpg, id=21, 322.95656pt x 509.65407pt>
+File: 1.jpg Graphic file (type jpg)
+ <use 1.jpg>
+Package pdftex.def Info: 1.jpg used on input line 84.
+(pdftex.def)             Requested size: 226.06804pt x 356.7554pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<2.jpg, id=22, 572.1375pt x 237.13594pt>
+File: 2.jpg Graphic file (type jpg)
+ <use 2.jpg>
+Package pdftex.def Info: 2.jpg used on input line 89.
+(pdftex.def)             Requested size: 400.49352pt x 165.994pt.
+
+Overfull \hbox (40.49352pt too wide) in paragraph at lines 89--91
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5] <3.jpg, id=26, 447.92343pt x 237.88875pt>
+File: 3.jpg Graphic file (type jpg)
+ <use 3.jpg>
+Package pdftex.def Info: 3.jpg used on input line 101.
+(pdftex.def)             Requested size: 313.54427pt x 166.52098pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./1.jpg>] [7 <./2.jpg> <./3.jpg>]
+<lm35_interfacing.jpg, id=34, 517.935pt x 374.14781pt>
+File: lm35_interfacing.jpg Graphic file (type jpg)
+
+<use lm35_interfacing.jpg>
+Package pdftex.def Info: lm35_interfacing.jpg used on input line 112.
+(pdftex.def)             Requested size: 362.55202pt x 261.90167pt.
+
+Overfull \hbox (2.55202pt too wide) in paragraph at lines 112--114
+ [][] 
+ []
+
+
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1
+.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+) (lm35_adc.py
+Missing character: There is no ï in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no â in font cmti10!
+Missing character: There is no ˆ in font cmti10!
+Missing character: There is no ’ in font cmti10!
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no ™ in font cmti10!
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 16--17
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[8 <./lm35_interfacing.jpg>]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 17.
+
+("C:\Users\dell 1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 17.
+
+Overfull \hbox (165.60547pt too wide) in paragraph at lines 35--36
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) <ckt.jpg, id=41, 377.91188pt x 310.91156pt>
+File: ckt.jpg Graphic file (type jpg)
+ <use ckt.jpg>
+Package pdftex.def Info: ckt.jpg used on input line 126.
+(pdftex.def)             Requested size: 264.5365pt x 217.6366pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9] <ckt_schematic.jpg, id=46, 657.2053pt x 471.26062pt>
+File: ckt_schematic.jpg Graphic file (type jpg)
+
+<use ckt_schematic.jpg>
+Package pdftex.def Info: ckt_schematic.jpg used on input line 140.
+(pdftex.def)             Requested size: 394.32622pt x 282.75856pt.
+
+Overfull \hbox (34.32622pt too wide) in paragraph at lines 140--142
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./ckt.jpg>] (adc_IR_sensor.py
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 16--17
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[11 <./ckt_schematic.jpg>]
+Overfull \hbox (67.05444pt too wide) in paragraph at lines 34--35
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 41--42
+[][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 56--57
+[][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 57--58
+[][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 58--59
+[][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (86.76465pt too wide) in paragraph at lines 60--61
+[][][][][][][][] 
+ []
+
+
+Overfull \hbox (211.59595pt too wide) in paragraph at lines 61--62
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (47.34424pt too wide) in paragraph at lines 62--63
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[12]) [13] <ckt_schematic2.jpg, id=60, 574.39594pt x 473.51906pt>
+File: ckt_schematic2.jpg Graphic file (type jpg)
+
+<use ckt_schematic2.jpg>
+Package pdftex.def Info: ckt_schematic2.jpg used on input line 162.
+(pdftex.def)             Requested size: 344.64021pt x 284.11362pt.
+ [14 <./ckt_schematic2.jpg>] (adc2.py
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 4--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 17--18
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (67.05444pt too wide) in paragraph at lines 33--34
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 40--41
+[][][][][][][][][][] 
+ []
+
+[15]
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 55--56
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 76--77
+[][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 77--78
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 80--81
+[][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 81--83
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) [16]
+Overfull \hbox (3.20584pt too wide) in paragraph at lines 176--177
+[]\OT1/cmr/m/n/10.95 www.raspberrypi-spy.co.ukanalogue-sensors-on-the-raspberry
+-pi-using-
+ []
+
+
+Overfull \hbox (31.12842pt too wide) in paragraph at lines 178--179
+[]\OT1/cmr/m/n/10.95 www.byteparadigm.com/applications/introduction-to-i2c-and-
+spi-protocols/ 
+ []
+
+[17] (adc_interfacing_SPI.aux) ) 
+Here is how much of TeX's memory you used:
+ 2646 strings out of 493634
+ 37189 string characters out of 3134829
+ 138918 words of memory out of 3000000
+ 6029 multiletter control sequences out of 15000+200000
+ 9157 words of font info for 32 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,6n,43p,343b,1596s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/dell 1/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/dell 1/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/dell 1/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/U
+sers/dell 1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Users/dell 1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Users/dell 1/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr17.pfb><C:/Users/dell 1/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dell 1/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on adc_interfacing_SPI.pdf (17 pages, 621456 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
