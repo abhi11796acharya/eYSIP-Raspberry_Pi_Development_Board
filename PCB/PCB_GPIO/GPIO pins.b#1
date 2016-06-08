@@ -140,10 +140,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="-6" y1="0" x2="61.9" y2="0" width="0" layer="20"/>
-<wire x1="61.9" y1="0" x2="61.9" y2="40.63" width="0" layer="20"/>
-<wire x1="61.9" y1="40.63" x2="-6" y2="40.63" width="0" layer="20"/>
-<wire x1="-6" y1="40.63" x2="-6" y2="0" width="0" layer="20"/>
+<wire x1="-8" y1="-16" x2="63.9" y2="-16" width="0" layer="20"/>
+<wire x1="63.9" y1="-16" x2="63.9" y2="46.63" width="0" layer="20"/>
+<wire x1="63.9" y1="46.63" x2="-8" y2="46.63" width="0" layer="20"/>
+<wire x1="-8" y1="46.63" x2="-8" y2="-16" width="0" layer="20"/>
 </plain>
 <libraries>
 <library name="adafruit">

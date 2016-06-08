@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="2" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="2" altunitdist="mm" altunit="mm"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -140,9 +140,9 @@
 </layers>
 <board>
 <plain>
-<wire x1="15.08" y1="-14.22" x2="86.79" y2="-14.22" width="0" layer="20"/>
-<wire x1="86.79" y1="-14.22" x2="86.79" y2="57.14" width="0" layer="20"/>
-<wire x1="86.79" y1="57.14" x2="15.08" y2="57.14" width="0" layer="20"/>
+<wire x1="15.08" y1="-14.22" x2="82.98" y2="-14.22" width="0" layer="20"/>
+<wire x1="82.98" y1="-14.22" x2="82.98" y2="57.14" width="0" layer="20"/>
+<wire x1="82.98" y1="57.14" x2="15.08" y2="57.14" width="0" layer="20"/>
 <wire x1="15.08" y1="57.14" x2="15.08" y2="-14.22" width="0" layer="20"/>
 </plain>
 <libraries>
@@ -641,11 +641,11 @@ design rules under a new name.</description>
 <element name="R1" library="adafruit" package="0207/5V" value="" x="39.94" y="31.56" rot="R270"/>
 <element name="SW1" library="adafruit" package="PUSHBUTTON_SMD_SJ" value="" x="29.78" y="35.37" rot="R270"/>
 <element name="SW2" library="adafruit" package="PUSHBUTTON_SMD_SJ" value="" x="29.78" y="25.21" rot="R90"/>
-<element name="SG1" library="buzzer" package="EB2209A" value="EB2209A" x="74.23" y="25.21" rot="R180">
-<attribute name="MF" value="" x="74.23" y="25.21" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_FARNELL" value="unknown" x="74.23" y="25.21" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="OC_NEWARK" value="unknown" x="74.23" y="25.21" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="" x="74.23" y="25.21" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="SG1" library="buzzer" package="EB2209A" value="EB2209A" x="68.23" y="7.21" rot="R180">
+<attribute name="MF" value="" x="68.23" y="7.21" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_FARNELL" value="unknown" x="68.23" y="7.21" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="68.23" y="7.21" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="68.23" y="7.21" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 </elements>
 <signals>
@@ -722,17 +722,18 @@ design rules under a new name.</description>
 <wire x1="46.29" y1="45.53" x2="46.29" y2="54.61" width="1.016" layer="1"/>
 <wire x1="46.29" y1="54.61" x2="16.89" y2="54.61" width="1.016" layer="1"/>
 <wire x1="16.89" y1="54.61" x2="16.89" y2="12.32" width="1.016" layer="1"/>
-<wire x1="16.89" y1="12.32" x2="72.45" y2="12.32" width="1.016" layer="1"/>
-<wire x1="72.45" y1="12.32" x2="72.45" y2="21.75" width="1.016" layer="1"/>
-<wire x1="72.45" y1="21.75" x2="66.355" y2="25.75" width="1.016" layer="1"/>
-<wire x1="72.45" y1="21.75" x2="66.737" y2="25.21" width="0" layer="19" extent="1-1"/>
+<wire x1="16.89" y1="12.32" x2="56.45" y2="12.29" width="1.016" layer="1"/>
+<wire x1="56.45" y1="12.29" x2="56.45" y2="7.75" width="1.016" layer="1"/>
+<wire x1="56.45" y1="7.75" x2="60.355" y2="7.75" width="1.016" layer="1"/>
+<wire x1="60.737" y1="7.21" x2="60.355" y2="7.21" width="1.016" layer="1"/>
+<wire x1="60.355" y1="7.21" x2="60.355" y2="7.75" width="1.016" layer="1"/>
 </signal>
 <signal name="N$4">
 <contactref element="SG1" pad="-"/>
 <contactref element="JP1" pad="39"/>
-<wire x1="81.723" y1="25.21" x2="81.85" y2="25.21" width="0.04" layer="1"/>
-<wire x1="81.85" y1="25.21" x2="81.85" y2="42.99" width="1.016" layer="1"/>
-<wire x1="81.85" y1="42.99" x2="74.23" y2="42.99" width="1.016" layer="1"/>
+<wire x1="75.723" y1="7.21" x2="75.5" y2="7.43" width="0.04" layer="1"/>
+<wire x1="75.5" y1="7.43" x2="74.23" y2="7.43" width="1.016" layer="1"/>
+<wire x1="74.23" y1="7.43" x2="74.23" y2="42.99" width="1.016" layer="1"/>
 </signal>
 </signals>
 </board>
