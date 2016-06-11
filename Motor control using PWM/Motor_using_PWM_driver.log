@@ -1,0 +1,451 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  11 JUN 2016 17:14
+entering extended mode
+**Motor_using_PWM_driver.tex
+
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Motor control using P
+WM\Motor_using_PWM_driver.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.
+sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count87
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count88
+\lst@currlwidth=\dimen103
+\lst@column=\count89
+\lst@pos=\count90
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count91
+\lst@lineno=\count92
+\lst@maxwidth=\dimen106
+
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count93
+\lst@skipnumbers=\count94
+\lst@framebox=\box27
+)
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ ("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Motor control using P
+WM\Motor_using_PWM_driver.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+\c@lstlisting=\count96
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen110
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks17
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+ [1
+
+{C:/Users/Aditya Kumar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Motor control using P
+WM\Motor_using_PWM_driver.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 7.
+)
+\tf@toc=\write3
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+ [3]
+<sm.jpg, id=17, 351.3125pt x 264.99pt>
+File: sm.jpg Graphic file (type jpg)
+ <use sm.jpg>
+Package pdftex.def Info: sm.jpg used on input line 62.
+(pdftex.def)             Requested size: 281.05037pt x 211.99228pt.
+ [4 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Motor control usin
+g PWM/sm.jpg>]
+<pwmwaves.jpg, id=23, 96.36pt x 81.78555pt>
+File: pwmwaves.jpg Graphic file (type jpg)
+ <use pwmwaves.jpg>
+Package pdftex.def Info: pwmwaves.jpg used on input line 81.
+(pdftex.def)             Requested size: 192.71948pt x 163.57068pt.
+
+<pca9685.jpg, id=24, 451.6875pt x 451.6875pt>
+File: pca9685.jpg Graphic file (type jpg)
+ <use pca9685.jpg>
+Package pdftex.def Info: pca9685.jpg used on input line 100.
+(pdftex.def)             Requested size: 180.67178pt x 180.67178pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Motor control using
+ PWM/pwmwaves.jpg>] <pin_pca9685.jpg, id=28, 186.6975pt x 211.54031pt>
+File: pin_pca9685.jpg Graphic file (type jpg)
+
+<use pin_pca9685.jpg>
+Package pdftex.def Info: pin_pca9685.jpg used on input line 108.
+(pdftex.def)             Requested size: 149.35818pt x 169.23247pt.
+ [6 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Motor control usin
+g PWM/pca9685.jpg> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Mot
+or control using PWM/pin_pca9685.jpg>]
+<DC_motor_GPIO.jpg, id=32, 420.06938pt x 376.40625pt>
+File: DC_motor_GPIO.jpg Graphic file (type jpg)
+ <use DC_motor_GPIO.jpg>
+Package pdftex.def Info: DC_motor_GPIO.jpg used on input line 139.
+(pdftex.def)             Requested size: 252.04358pt x 225.84547pt.
+
+[7 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Motor control using
+ PWM/DC_motor_GPIO.jpg>]
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Motor control using P
+WM\DC_motor_gpio.py"
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 3--4
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.35376pt too wide) in paragraph at lines 14--15
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 15--16
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 17--18
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.35376pt too wide) in paragraph at lines 26--27
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 27--28
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 28--29
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (53.9143pt too wide) in paragraph at lines 29--30
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (93.33472pt too wide) in paragraph at lines 40--41
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 41--42
+[][][][][][][][][] 
+ []
+
+[8]
+Overfull \hbox (119.61499pt too wide) in paragraph at lines 44--45
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (93.33472pt too wide) in paragraph at lines 51--52
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 52--53
+[][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (119.61499pt too wide) in paragraph at lines 55--56
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) <DC_motor_PCA9685.jpg, id=41, 488.57532pt x 297.36093pt>
+File: DC_motor_PCA9685.jpg Graphic file (type jpg)
+
+<use DC_motor_PCA9685.jpg>
+Package pdftex.def Info: DC_motor_PCA9685.jpg used on input line 157.
+(pdftex.def)             Requested size: 293.14745pt x 178.41792pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9]
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Motor control using P
+WM\DC_motor_PCA9685.py"
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 6--7
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 7--8
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 11--13
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.35376pt too wide) in paragraph at lines 15--16
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 16--17
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 18--19
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.35376pt too wide) in paragraph at lines 27--28
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[10 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Motor control usin
+g PWM/DC_motor_PCA9685.jpg>]
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 28--29
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 29--30
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (53.9143pt too wide) in paragraph at lines 30--31
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (113.04492pt too wide) in paragraph at lines 41--42
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 42--43
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (145.89526pt too wide) in paragraph at lines 44--45
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (47.34424pt too wide) in paragraph at lines 45--47
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (119.61499pt too wide) in paragraph at lines 49--50
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 50--51
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (152.46533pt too wide) in paragraph at lines 52--53
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 53--54
+[][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 56--163
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[11] <servo_motor_PCA9685.jpg, id=51, 355.3275pt x 243.15843pt>
+File: servo_motor_PCA9685.jpg Graphic file (type jpg)
+
+<use servo_motor_PCA9685.jpg>
+Package pdftex.def Info: servo_motor_PCA9685.jpg used on input line 174.
+(pdftex.def)             Requested size: 213.19814pt x 145.89618pt.
+
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Motor control using P
+WM\servo_PCA9685.py"
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 12--13
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.35376pt too wide) in paragraph at lines 15--16
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.35376pt too wide) in paragraph at lines 16--18
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+[12 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Motor control usin
+g PWM/servo_motor_PCA9685.jpg>]
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 25--26
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) <l293d.jpg, id=55, 398.99063pt x 264.99pt>
+File: l293d.jpg Graphic file (type jpg)
+ <use l293d.jpg>
+Package pdftex.def Info: l293d.jpg used on input line 193.
+(pdftex.def)             Requested size: 199.49483pt x 132.49467pt.
+ [13 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Motor control usi
+ng PWM/l293d.jpg>]
+<MCP23017.png, id=60, 221.32687pt x 344.78813pt>
+File: MCP23017.png Graphic file (type png)
+ <use MCP23017.png>
+Package pdftex.def Info: MCP23017.png used on input line 199.
+(pdftex.def)             Requested size: 88.52916pt x 137.9128pt.
+File: pin_pca9685.jpg Graphic file (type jpg)
+
+<use pin_pca9685.jpg>
+Package pdftex.def Info: pin_pca9685.jpg used on input line 204.
+(pdftex.def)             Requested size: 149.35818pt x 169.23247pt.
+ [14 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Motor control usi
+ng PWM/MCP23017.png>] [15]
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Motor control using P
+WM\Motor_using_PWM_driver.aux") ) 
+Here is how much of TeX's memory you used:
+ 2692 strings out of 493921
+ 38427 string characters out of 3147261
+ 136497 words of memory out of 3000000
+ 5980 multiletter control sequences out of 15000+200000
+ 9325 words of font info for 33 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,7n,43p,406b,1600s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmtt10.pfb>
+Output written on Motor_using_PWM_driver.pdf (15 pages, 510007 bytes).
+PDF statistics:
+ 100 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

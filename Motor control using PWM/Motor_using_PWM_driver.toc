@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Objective}{3}
+\contentsline {section}{\numberline {2}Prerequisites}{3}
+\contentsline {section}{\numberline {3}Hardware Requirement}{3}
+\contentsline {section}{\numberline {4}Software Requirement}{3}
+\contentsline {section}{\numberline {5}Theory and Description}{4}
+\contentsline {section}{\numberline {6}Experiment}{6}
+\contentsline {subsection}{\numberline {6.1}Controlling the speed of dc motor through L293D using PWM from the GPIO pins of RPi}{6}
+\contentsline {subsection}{\numberline {6.2}Controlling the speed of dc motor through L293D using PWM Driver IC}{9}
+\contentsline {subsection}{\numberline {6.3}Controlling the velocity of servo motor using PWM Driver IC}{12}
+\contentsline {section}{\numberline {7}Exercise}{13}
+\contentsline {section}{\numberline {8}Appendix}{13}
+\contentsline {subsection}{\numberline {8.1}PIN Diagram}{13}
+\contentsline {subsection}{\numberline {8.2}Datasheets}{14}
+\contentsline {section}{\numberline {9}References}{14}
