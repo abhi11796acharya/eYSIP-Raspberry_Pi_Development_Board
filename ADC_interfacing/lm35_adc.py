@@ -32,7 +32,8 @@ try:
         volts = ( value * 3.3) / 1024
         temperature = ConvertTemp( volts ,2)
         #Print out results
-        print("Temp : {} volts: {} deg C: {}".format( value,volts,temperature ))
+        print("Temp : {} volts: {} deg C: {}".format(
+            value,volts,temperature ))
         time . sleep (0.5)
 except KeyboardInterrupt:
     pass

@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  8 JUN 2016 14:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  11 JUN 2016 11:08
 entering extended mode
 **IO_Port_expander_experiment.tex
-(G:\IO_port_expander_experiments\IO_Port_expander_experiment.tex
+
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\IO_port_expander_experiment
+s\IO_Port_expander_experiment.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -93,7 +95,9 @@ cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
- (G:\IO_port_expander_experiments\IO_Port_expander_experiment.aux)
+
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\IO_port_expander_experiment
+s\IO_Port_expander_experiment.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
@@ -131,9 +135,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/Aditya Kumar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(G:\IO_port_expander_experiments\IO_Port_expander_experiment.toc
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\IO_port_expander_experiment
+s\IO_Port_expander_experiment.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 7.
+(Font)              <10.95> on input line 6.
 )
 \tf@toc=\write3
  [2]
@@ -149,70 +154,109 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
  [3]
-<lcd.png, id=17, 339.2675pt x 295.1025pt>
+<mcp23017.png, id=17, 221.32687pt x 344.78813pt>
+File: mcp23017.png Graphic file (type png)
+ <use mcp23017.png>
+Package pdftex.def Info: mcp23017.png used on input line 56.
+(pdftex.def)             Requested size: 154.92773pt x 241.35004pt.
+
+<interface.png, id=18, 253.69781pt x 235.63031pt>
+File: interface.png Graphic file (type png)
+ <use interface.png>
+Package pdftex.def Info: interface.png used on input line 67.
+(pdftex.def)             Requested size: 202.95851pt x 188.5045pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/IO_port_expander_experim
+ents/mcp23017.png>] <lcd.png, id=23, 339.2675pt x 295.1025pt>
 File: lcd.png Graphic file (type png)
  <use lcd.png>
-Package pdftex.def Info: lcd.png used on input line 56.
+Package pdftex.def Info: lcd.png used on input line 97.
 (pdftex.def)             Requested size: 305.33792pt x 265.58978pt.
- [4 <G:/IO_port_expander_experiments/lcd.png>]
+
+[5 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/IO_port_expander_experim
+ents/interface.png>] [6 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/IO_
+port_expander_experiments/lcd.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-Overfull \hbox (91.58331pt too wide) in paragraph at lines 66--103
+Overfull \hbox (91.58331pt too wide) in paragraph at lines 107--144
 [][]  
  []
 
-[5] <led_switch_I2C.JPG, id=25, 329.73187pt x 285.31593pt>
+[7] <led_switch_I2C.JPG, id=36, 329.73187pt x 285.31593pt>
 File: led_switch_I2C.JPG Graphic file (type jpg)
 
 <use led_switch_I2C.JPG>
-Package pdftex.def Info: led_switch_I2C.JPG used on input line 128.
+Package pdftex.def Info: led_switch_I2C.JPG used on input line 169.
 (pdftex.def)             Requested size: 329.73105pt x 285.31523pt.
- [6 <G:/IO_port_expander_experiments/led_switch_I2C.JPG>] [7]
+ [8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/IO_port_expander_experi
+ments/led_switch_I2C.JPG>] [9]
 ("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.
 sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
-) (G:\IO_port_expander_experiments\i2c_switch_led.py
-Overfull \hbox (106.47485pt too wide) in paragraph at lines 12--13
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+)
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\IO_port_expander_experiment
+s\i2c_switch_led.py
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 8--9
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (145.89526pt too wide) in paragraph at lines 20--21
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (126.18506pt too wide) in paragraph at lines 9--10
+[][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (14.4939pt too wide) in paragraph at lines 21--22
-[][][][][][][] 
- []
-
-
-Overfull \hbox (40.77417pt too wide) in paragraph at lines 22--23
+Overfull \hbox (145.89526pt too wide) in paragraph at lines 10--11
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (60.48438pt too wide) in paragraph at lines 31--32
+Overfull \hbox (106.47485pt too wide) in paragraph at lines 16--17
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (145.89526pt too wide) in paragraph at lines 25--26
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 26--27
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (145.89526pt too wide) in paragraph at lines 27--28
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 36--37
 [][][][][][][][][][][][][][][][][][][][][] 
  []
 
 )
-Overfull \hbox (47.34424pt too wide) in paragraph at lines 32--148
+Overfull \hbox (152.46533pt too wide) in paragraph at lines 37--189
 [][][][][][][][][][][][][][][][][][] 
  []
 
-[8] <LCD_I2C.PNG, id=36, 451.6875pt x 325.96782pt>
+[10] <LCD_I2C.PNG, id=46, 451.6875pt x 325.96782pt>
 File: LCD_I2C.PNG Graphic file (type png)
  <use LCD_I2C.PNG>
-Package pdftex.def Info: LCD_I2C.PNG used on input line 153.
+Package pdftex.def Info: LCD_I2C.PNG used on input line 194.
 (pdftex.def)             Requested size: 316.17908pt x 228.1759pt.
- [9 <G:/IO_port_expander_experiments/LCD_I2C.PNG>]
-(G:\IO_port_expander_experiments\lcd_port_expand_demo.py
+ [11 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/IO_port_expander_exper
+iments/LCD_I2C.PNG>]
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\IO_port_expander_experiment
+s\lcd_port_expand_demo.py
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
- [10] [11]
+ [12] [13]
 Overfull \hbox (1.35376pt too wide) in paragraph at lines 106--107
 [][][][][][][][][][][][][][][][][][][] 
  []
@@ -227,34 +271,49 @@ Overfull \hbox (119.61499pt too wide) in paragraph at lines 108--109
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[12] [13]) [14] <RaspberryPi2_pinout.jpg, id=56, 570.13pt x 415.5525pt>
+[14] [15]) [16] <RaspberryPi2_pinout.jpg, id=66, 570.13pt x 415.5525pt>
 File: RaspberryPi2_pinout.jpg Graphic file (type jpg)
 
 <use RaspberryPi2_pinout.jpg>
-Package pdftex.def Info: RaspberryPi2_pinout.jpg used on input line 185.
+Package pdftex.def Info: RaspberryPi2_pinout.jpg used on input line 226.
 (pdftex.def)             Requested size: 342.08064pt x 249.33342pt.
- [15 <G:/IO_port_expander_experiments/RaspberryPi2_pinout.jpg>] [16]
-(G:\IO_port_expander_experiments\IO_Port_expander_experiment.aux) ) 
+File: mcp23017.png Graphic file (type png)
+ <use mcp23017.png>
+Package pdftex.def Info: mcp23017.png used on input line 235.
+(pdftex.def)             Requested size: 110.66315pt x 172.39363pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/IO_port_expander_experi
+ments/RaspberryPi2_pinout.jpg>]
+Overfull \hbox (46.53976pt too wide) in paragraph at lines 248--249
+$\OT1/cmtt/m/n/10.95 4547-[]add-[]digital-[]i-[]o-[]pins-[]to-[]raspberry-[]pi-
+[]hardware-[]using-[]mcp23017$  
+ []
+
+[18]
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\IO_port_expander_experiment
+s\IO_Port_expander_experiment.aux) ) 
 Here is how much of TeX's memory you used:
- 2697 strings out of 493921
- 37603 string characters out of 3147261
- 131324 words of memory out of 3000000
- 5990 multiletter control sequences out of 15000+200000
+ 2708 strings out of 493921
+ 38397 string characters out of 3147261
+ 132442 words of memory out of 3000000
+ 5999 multiletter control sequences out of 15000+200000
  9325 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  28i,7n,43p,641b,1478s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-
-Output written on IO_Port_expander_experiment.pdf (16 pages, 357561 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on IO_Port_expander_experiment.pdf (18 pages, 378920 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

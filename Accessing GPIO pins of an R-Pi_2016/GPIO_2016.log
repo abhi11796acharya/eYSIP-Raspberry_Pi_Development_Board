@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  8 JUN 2016 17:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  9 JUN 2016 17:47
 entering extended mode
 **GPIO_2016.tex
 
@@ -246,18 +246,6 @@ File: GPIO.png Graphic file (type png)
 <use GPIO.png>
 Package pdftex.def Info: GPIO.png used on input line 130.
 (pdftex.def)             Requested size: 141.22511pt x 109.60754pt.
- <pcb_front.png, id=42, 222.07968pt x 191.21437pt>
-File: pcb_front.png Graphic file (type png)
-
-<use pcb_front.png>
-Package pdftex.def Info: pcb_front.png used on input line 143.
-(pdftex.def)             Requested size: 88.83029pt x 76.48439pt.
- <back_track.png, id=43, 222.8325pt x 191.9672pt>
-File: back_track.png Graphic file (type png)
-
-<use back_track.png>
-Package pdftex.def Info: back_track.png used on input line 147.
-(pdftex.def)             Requested size: 89.13141pt x 76.7855pt.
 
 ("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Accessing GPIO pins of an 
 R-Pi_2016\switchpress_LED(GPIO).py"
@@ -265,10 +253,7 @@ Overfull \hbox (34.2041pt too wide) in paragraph at lines 1--2
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[9 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of a
-n R-Pi_2016/GPIO.png> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Acces
-sing GPIO pins of an R-Pi_2016/pcb_front.png> <D:/Internship/eYSIP-Raspberry_Pi
-_Development_Board/Accessing GPIO pins of an R-Pi_2016/back_track.png>]
+
 Overfull \hbox (113.04492pt too wide) in paragraph at lines 7--8
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -278,17 +263,18 @@ Overfull \hbox (106.47485pt too wide) in paragraph at lines 8--9
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-) [10]
+[9 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Accessing GPIO pins of a
+n R-Pi_2016/GPIO.png>]) [10]
 ("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Accessing GPIO pins of an 
 R-Pi_2016\GPIO_2016.aux") ) 
 Here is how much of TeX's memory you used:
- 2669 strings out of 493921
- 37929 string characters out of 3147261
+ 2659 strings out of 493921
+ 37756 string characters out of 3147261
  123419 words of memory out of 3000000
- 5958 multiletter control sequences out of 15000+200000
+ 5950 multiletter control sequences out of 15000+200000
  9325 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,7n,43p,242b,1474s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,43p,242b,1476s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
@@ -297,9 +283,9 @@ gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on GPIO_2016.pdf (10 pages, 521398 bytes).
+Output written on GPIO_2016.pdf (10 pages, 512228 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

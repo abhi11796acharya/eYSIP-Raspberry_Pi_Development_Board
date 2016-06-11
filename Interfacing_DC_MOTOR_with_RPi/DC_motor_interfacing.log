@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  8 JUN 2016 10:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  11 JUN 2016 02:19
 entering extended mode
 **DC_motor_interfacing.tex
-(G:\Interfacing_DC_MOTOR_with_RPi\DC_motor_interfacing.tex
+
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Interfacing_DC_MOTOR_with_R
+Pi\DC_motor_interfacing.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -93,7 +95,9 @@ cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
- (G:\Interfacing_DC_MOTOR_with_RPi\DC_motor_interfacing.aux)
+
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Interfacing_DC_MOTOR_with_R
+Pi\DC_motor_interfacing.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
@@ -131,7 +135,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/Aditya Kumar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(G:\Interfacing_DC_MOTOR_with_RPi\DC_motor_interfacing.toc
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Interfacing_DC_MOTOR_with_R
+Pi\DC_motor_interfacing.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 7.
 )
@@ -155,14 +160,20 @@ Overfull \hbox (4.75945pt too wide) in paragraph at lines 72--87
  [][] 
  []
 
-[5 <G:/Interfacing_DC_MOTOR_with_RPi/hb.jpg>]
-<l293d.jpg, id=24, 487.8225pt x 262.73157pt>
-File: l293d.jpg Graphic file (type jpg)
- <use l293d.jpg>
-Package pdftex.def Info: l293d.jpg used on input line 98.
-(pdftex.def)             Requested size: 341.47342pt x 183.91083pt.
- [6 <G:/Interfacing_DC_MOTOR_with_RPi/l293d.jpg>] <lc.jpg, id=28, 777.65532pt x
- 456.95718pt>
+[5 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Interfacing_DC_MOTOR_wit
+h_RPi/hb.jpg>] <l293d_with_pinfun.png, id=24, 621.07031pt x 388.45125pt>
+File: l293d_with_pinfun.png Graphic file (type png)
+
+<use l293d_with_pinfun.png>
+Package pdftex.def Info: l293d_with_pinfun.png used on input line 98.
+(pdftex.def)             Requested size: 434.74625pt x 271.914pt.
+
+Overfull \hbox (74.74625pt too wide) in paragraph at lines 98--100
+ [][] 
+ []
+
+[6 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Interfacing_DC_MOTOR_wit
+h_RPi/l293d_with_pinfun.png>] <lc.jpg, id=30, 777.65532pt x 456.95718pt>
 File: lc.jpg Graphic file (type jpg)
 
 <use lc.jpg>
@@ -173,60 +184,21 @@ Overfull \hbox (28.8267pt too wide) in paragraph at lines 117--119
  [][] 
  []
 
-[7 <G:/Interfacing_DC_MOTOR_with_RPi/lc.jpg>]
-<DC_motor_GPIO.jpg, id=33, 319.94531pt x 276.28218pt>
-File: DC_motor_GPIO.jpg Graphic file (type jpg)
- <use DC_motor_GPIO.jpg>
-Package pdftex.def Info: DC_motor_GPIO.jpg used on input line 146.
-(pdftex.def)             Requested size: 191.96866pt x 165.77057pt.
-
-[8 <G:/Interfacing_DC_MOTOR_with_RPi/DC_motor_GPIO.jpg>]
-("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.
-sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-) (G:\Interfacing_DC_MOTOR_with_RPi\DC_motor_gpio.py
-Overfull \hbox (7.92383pt too wide) in paragraph at lines 3--4
-[][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (86.76465pt too wide) in paragraph at lines 16--17
-[][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (7.92383pt too wide) in paragraph at lines 17--18
-[][][][][][][][][] 
- []
-
-
-Overfull \hbox (113.04492pt too wide) in paragraph at lines 20--21
-[][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (86.76465pt too wide) in paragraph at lines 26--27
-[][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (40.77417pt too wide) in paragraph at lines 27--28
-[][][][][][][][][][] 
- []
-
-
-Overfull \hbox (113.04492pt too wide) in paragraph at lines 30--31
-[][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) [9] <DC_motor_I2C.jpg, id=41, 293.59688pt x 272.51813pt>
+[7 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Interfacing_DC_MOTOR_wit
+h_RPi/lc.jpg>] <DC_motor_I2C.jpg, id=35, 293.59688pt x 272.51813pt>
 File: DC_motor_I2C.jpg Graphic file (type jpg)
 
 <use DC_motor_I2C.jpg>
-Package pdftex.def Info: DC_motor_I2C.jpg used on input line 168.
+Package pdftex.def Info: DC_motor_I2C.jpg used on input line 147.
 (pdftex.def)             Requested size: 176.15947pt x 163.51213pt.
- [10 <G:/Interfacing_DC_MOTOR_with_RPi/DC_motor_I2C.jpg>] (G:\Interfacing_DC_MO
-TOR_with_RPi\DC_motor_I2C_test.py
+ [8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Interfacing_DC_MOTOR_wi
+th_RPi/DC_motor_I2C.jpg>]
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Interfacing_DC_MOTOR_with_R
+Pi\DC_motor_I2C_test.py
 Overfull \hbox (106.47485pt too wide) in paragraph at lines 10--11
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -286,7 +258,7 @@ Overfull \hbox (21.06396pt too wide) in paragraph at lines 41--42
 [][][][][][][][][][][][][][][][][][][] 
  []
 
-[11]
+[9]
 Overfull \hbox (27.63403pt too wide) in paragraph at lines 44--45
 [][][][][][][][][][][][][][][][] 
  []
@@ -301,33 +273,42 @@ Overfull \hbox (53.9143pt too wide) in paragraph at lines 50--51
 [][][][][][][][][][][][][][][][] 
  []
 
-) [12] <RaspberryPi2_pinout.jpg, id=51, 570.13pt x 415.5525pt>
+) [10] <RaspberryPi2_pinout.jpg, id=46, 570.13pt x 415.5525pt>
 File: RaspberryPi2_pinout.jpg Graphic file (type jpg)
 
 <use RaspberryPi2_pinout.jpg>
-Package pdftex.def Info: RaspberryPi2_pinout.jpg used on input line 195.
+Package pdftex.def Info: RaspberryPi2_pinout.jpg used on input line 174.
 (pdftex.def)             Requested size: 342.08064pt x 249.33342pt.
- [13 <G:/Interfacing_DC_MOTOR_with_RPi/RaspberryPi2_pinout.jpg>] (G:\Interfacin
-g_DC_MOTOR_with_RPi\DC_motor_interfacing.aux) ) 
+ <l293d.jpg, id=47, 398.99063pt x 264.99pt>
+File: l293d.jpg Graphic file (type jpg)
+
+<use l293d.jpg>
+Package pdftex.def Info: l293d.jpg used on input line 180.
+(pdftex.def)             Requested size: 239.39622pt x 158.99522pt.
+ [11 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Interfacing_DC_MOTOR_w
+ith_RPi/RaspberryPi2_pinout.jpg> <D:/Internship/eYSIP-Raspberry_Pi_Development_
+Board/Interfacing_DC_MOTOR_with_RPi/l293d.jpg>] [12]
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Interfacing_DC_MOTOR_with_R
+Pi\DC_motor_interfacing.aux) ) 
 Here is how much of TeX's memory you used:
- 2675 strings out of 493921
- 37264 string characters out of 3147261
- 136433 words of memory out of 3000000
- 5969 multiletter control sequences out of 15000+200000
+ 2655 strings out of 493921
+ 37529 string characters out of 3147261
+ 136453 words of memory out of 3000000
+ 5951 multiletter control sequences out of 15000+200000
  9325 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,7n,43p,526b,1476s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on DC_motor_interfacing.pdf (13 pages, 451610 bytes).
+ 27i,7n,43p,526b,1600s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on DC_motor_interfacing.pdf (12 pages, 422180 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

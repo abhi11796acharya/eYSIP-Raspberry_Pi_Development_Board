@@ -95,7 +95,7 @@
     \vspace{0.3cm}
     \textbf{Pin configuration}
     \begin{figure}[h!]
-    	\includegraphics[scale=0.7]{l293d.jpg}
+    	\includegraphics[scale=0.7]{l293d_with_pinfun.png}
     	\centering
     	\caption{[2]}
     \end{figure}
@@ -140,28 +140,7 @@
     \newpage
     \flushleft 
 	\section{Experiment}
-	\subsection{ DC motor interfacing with Raspberry Pi through L293D using GPIO pins}
-	In this experiment we will be rotating the DC motor both ways using L293D(Motor Driver IC) and GPIO pins of RPi.
-	\begin{figure}[h!]
-		\includegraphics[scale=0.6]{DC_motor_GPIO.jpg}
-		\centering
-	\end{figure} 
-	\begin{itemize}
-		\item  Pin 1 (1-2EN)of L293D is Connected to 5V supply.
-		\item  1A and 2A are connected to board pins 11 and 13 of Raspberry Pi respectively.
-		\item  Ground of L293D and 9V battery is connected to ground of Raspberry Pi.
-		\item  Pin 8 of L293D is connected to +ve of 9V battery.
-		\item  1Y and 2Y are connected to the motor terminals which drives the motor.
-	\end{itemize}
-	\newpage 
-	\textbf{Code}
-	\vspace{0.3cm}
-	\lstinputlisting[language=Python]{DC_motor_gpio.py}
-	
-	\newpage
-	
-	
-	\subsection{ DC motor interfaced with Raspberry Pi through L293D and MCP23017 IC}
+		\subsection{ DC motor interfaced with Raspberry Pi through L293D and MCP23017 IC}
 	In this experiment we will be rotating the DC motor both ways by using MCP23017(Port Expander IC) and L293D(Motor Driver IC).
 	  
 	\begin{figure}[h!]
@@ -196,9 +175,20 @@
 		\centering
 		\caption{[4]}
 	\end{figure}
+	\subsection{L293D Pinouts}
+	\begin{figure}[h!]
+		\includegraphics[scale=0.6]{l293d.jpg}
+		\centering
+		\caption{[4]}
+	\end{figure}
 	
 	\subsection{MCP23017 datasheet}
 	
+	\url{http://ww1.microchip.com/downloads/en/DeviceDoc/21952b.pdf}
+	\subsection{L293D datasheet}
+	
+	\url{http://www.ti.com/lit/ds/symlink/l293.pdf}
+	\subsection{MCP23017}
 	\url{http://ww1.microchip.com/downloads/en/DeviceDoc/21952b.pdf}
 	
 	\section{References}

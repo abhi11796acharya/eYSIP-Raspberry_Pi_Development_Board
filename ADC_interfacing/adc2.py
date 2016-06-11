@@ -15,8 +15,9 @@ spi.open(0,0)#Clock polarity,Clock Phase
 # Example call: ReadChannel(channel)
 def ReadChannel(channel):
 	#Performs SPI Transaction and CS will be held active
-	adc = spi.xfer2([1,(8+channel)<<4,0])
-	data = ((adc[1]&3) << 8)
+        adc = spi.xfer2([1,(8+channel)<<4,0])	
+	data1 = ((adc[2]& 0xFC) >> 2)
+	data = ((adc[1]&3) << 6) + data1
 	return data
 
 # Function to convert data to voltage level,

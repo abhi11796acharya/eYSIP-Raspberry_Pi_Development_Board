@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.22)  7 JUN 2016 15:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.22)  10 JUN 2016 12:21
 entering extended mode
 **./adc_interfacing_SPI.tex
 (adc_interfacing_SPI.tex
@@ -221,11 +221,6 @@ File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 17.
-
-Overfull \hbox (165.60547pt too wide) in paragraph at lines 35--36
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
 ) <ckt.jpg, id=41, 377.91188pt x 310.91156pt>
 File: ckt.jpg Graphic file (type jpg)
  <use ckt.jpg>
@@ -285,16 +280,21 @@ Overfull \hbox (86.76465pt too wide) in paragraph at lines 60--61
  []
 
 
-Overfull \hbox (211.59595pt too wide) in paragraph at lines 61--62
-[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+Overfull \hbox (126.18506pt too wide) in paragraph at lines 61--62
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (47.34424pt too wide) in paragraph at lines 62--63
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 62--63
+[][][][][] 
+ []
+
+[12]
+Overfull \hbox (47.34424pt too wide) in paragraph at lines 63--64
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[12]) [13] <ckt_schematic2.jpg, id=60, 574.39594pt x 473.51906pt>
+) [13] <ckt_schematic2.jpg, id=60, 574.39594pt x 473.51906pt>
 File: ckt_schematic2.jpg Graphic file (type jpg)
 
 <use ckt_schematic2.jpg>
@@ -311,48 +311,48 @@ Overfull \hbox (34.2041pt too wide) in paragraph at lines 17--18
  []
 
 
-Overfull \hbox (67.05444pt too wide) in paragraph at lines 33--34
+Overfull \hbox (67.05444pt too wide) in paragraph at lines 34--35
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (73.62451pt too wide) in paragraph at lines 40--41
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 41--42
 [][][][][][][][][][] 
  []
 
 [15]
-Overfull \hbox (21.06396pt too wide) in paragraph at lines 55--56
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 56--57
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (21.06396pt too wide) in paragraph at lines 76--77
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 77--78
 [][][][][][][][] 
  []
 
 
-Overfull \hbox (60.48438pt too wide) in paragraph at lines 77--78
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 78--79
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (21.06396pt too wide) in paragraph at lines 80--81
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 81--82
 [][][][][][][][] 
  []
 
 
-Overfull \hbox (60.48438pt too wide) in paragraph at lines 81--83
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 82--84
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 ) [16]
-Overfull \hbox (3.20584pt too wide) in paragraph at lines 176--177
+Overfull \hbox (3.20584pt too wide) in paragraph at lines 175--176
 []\OT1/cmr/m/n/10.95 www.raspberrypi-spy.co.ukanalogue-sensors-on-the-raspberry
 -pi-using-
  []
 
 
-Overfull \hbox (31.12842pt too wide) in paragraph at lines 178--179
+Overfull \hbox (31.12842pt too wide) in paragraph at lines 177--178
 []\OT1/cmr/m/n/10.95 www.byteparadigm.com/applications/introduction-to-i2c-and-
 spi-protocols/ 
  []
@@ -376,7 +376,7 @@ msfonts/cm/cmr12.pfb><C:/Users/dell 1/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmr17.pfb><C:/Users/dell 1/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dell 1/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on adc_interfacing_SPI.pdf (17 pages, 621456 bytes).
+Output written on adc_interfacing_SPI.pdf (17 pages, 621506 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

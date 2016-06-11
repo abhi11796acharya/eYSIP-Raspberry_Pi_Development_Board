@@ -58,7 +58,8 @@ try:
                 value = Sharp_GP2D12_estimation(sharp_level)
                 # Print out results
                 print "--------------------------------------------"
-                print("sharp: Digital {} (Analog {}V)".format(sharp_level,sharp_volts))
+                print("sharp: Digital {} (Analog {}V)".format(sharp_level,
+                                                sharp_volts))
                 print("sharp: (Distance {} mm)".format(value))
                 # Wait before repeating loop
                 time.sleep(delay)
