@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  11 JUN 2016 11:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  11 JUN 2016 12:34
 entering extended mode
 **IO_Port_expander_experiment.tex
 
@@ -187,14 +187,19 @@ Overfull \hbox (91.58331pt too wide) in paragraph at lines 107--144
 [][]  
  []
 
-[7] <led_switch_I2C.JPG, id=36, 329.73187pt x 285.31593pt>
+[7] <led_switch_I2C.JPG, id=36, 372.64218pt x 312.41719pt>
 File: led_switch_I2C.JPG Graphic file (type jpg)
 
 <use led_switch_I2C.JPG>
 Package pdftex.def Info: led_switch_I2C.JPG used on input line 169.
-(pdftex.def)             Requested size: 329.73105pt x 285.31523pt.
- [8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/IO_port_expander_experi
-ments/led_switch_I2C.JPG>] [9]
+(pdftex.def)             Requested size: 372.64127pt x 312.41641pt.
+
+Overfull \hbox (12.64127pt too wide) in paragraph at lines 169--171
+ [][] 
+ []
+
+[8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/IO_port_expander_experim
+ents/led_switch_I2C.JPG>] [9]
 ("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.
 sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
@@ -311,7 +316,7 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on IO_Port_expander_experiment.pdf (18 pages, 378920 bytes).
+Output written on IO_Port_expander_experiment.pdf (18 pages, 385658 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
