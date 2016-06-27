@@ -87,7 +87,7 @@
 		\item Before making any changes to this configuration file, save the file in the case you make any mistake.
 		\item File /boot/cmdline.txt contains the kernel options that are used to boot the system.
 		\newline In the Terminal window type the command:
-		\newline \textbf{sudo /boot/cmdline.txt}
+		\newline \textbf{sudo nano /boot/cmdline.txt}
 		\item A window will open showing the following options:
 		\newline \textbf{dwc\_otg.lpm\_enable=0 console=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline rootwait}
 		\newline The interesting option is console, because this configure the serial port device /dev/ttyAMA0 to 115200 bps.Remove this serial reference by taking away the option \textbf{console=ttyAMA0,115200 }. After you make these changes the file should read:
@@ -107,7 +107,7 @@
 	\end{itemize}
 	\flushleft
 	\section{Experiment}
-	\subsection{Sending and Receiving Data serially for Raspberry Pi using HC-05 (Bluetooth Module):}
+	\subsection{Communication between Rpi and Android device using HC-05 (Bluetooth Module):}
 	\begin{itemize}
 		\item Connect the pins of HC-05 to Raspberry Pi as shown in below figure:
 		\begin{figure}[h!]
@@ -164,7 +164,7 @@
 	\end{itemize}
 	In this way the Data can be transmitted and received serially by the Raspberry Pi using Bluetooth module.
 	
-	\subsection{Sending and Receiving Data serially for Raspberry Pi using XBee Module:}
+	\subsection{Communication between Rpi and PC using XBee Module:}
 	\begin{itemize}
 		\item First of all download XCTU software on your PC and open it.
 		\begin{figure}[h!]

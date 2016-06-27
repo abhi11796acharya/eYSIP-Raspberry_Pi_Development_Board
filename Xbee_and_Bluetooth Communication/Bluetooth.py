@@ -2,7 +2,7 @@ import serial
 import time
 
 #serial Driver Initialization
-ser=serial.Serial('/dev/ttyUSB0',baudrate=9600,
+ser=serial.Serial('/dev/ttyAMA0',baudrate=9600,
                   parity=serial.PARITY_NONE,
                   stopbits=serial.STOPBITS_ONE,
                   bytesize=serial.EIGHTBITS,timeout=3)

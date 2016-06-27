@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  11 JUN 2016 17:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  25 JUN 2016 00:07
 entering extended mode
 **Xbee_and_Bluetooth_doc.tex
 
-(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Xbee_and_Bluetooth\Xbe
-e_and_Bluetooth_doc.tex
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Xbee_and_Bluetooth Communi
+cation\Xbee_and_Bluetooth_doc.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -96,8 +96,8 @@ File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Xbee_and_Bluetooth\Xbe
-e_and_Bluetooth_doc.aux)
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Xbee_and_Bluetooth Communi
+cation\Xbee_and_Bluetooth_doc.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
@@ -135,8 +135,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/Aditya Kumar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Xbee_and_Bluetooth\Xbe
-e_and_Bluetooth_doc.toc
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Xbee_and_Bluetooth Communi
+cation\Xbee_and_Bluetooth_doc.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 6.
 )
@@ -168,8 +168,8 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [4 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetooth
-/Asy_serial.JPG>] <HC-05.jpg, id=21, 224.84pt x 225.84375pt>
+ [4 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Comm
+unication/Asy_serial.JPG>] <HC-05.jpg, id=21, 224.84pt x 225.84375pt>
 File: HC-05.jpg Graphic file (type jpg)
  <use HC-05.jpg>
 Package pdftex.def Info: HC-05.jpg used on input line 57.
@@ -184,16 +184,16 @@ Package pdftex.def Info: XBee.jpg used on input line 64.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetooth/
-HC-05.jpg>] <Xbee_pin_diag.jpg, id=26, 302.22pt x 154.395pt>
+[5 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Commu
+nication/HC-05.jpg>] <Xbee_pin_diag.jpg, id=26, 302.22pt x 154.395pt>
 File: Xbee_pin_diag.jpg Graphic file (type jpg)
 
 <use Xbee_pin_diag.jpg>
 Package pdftex.def Info: Xbee_pin_diag.jpg used on input line 77.
 (pdftex.def)             Requested size: 284.52756pt x 145.35512pt.
- [6 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetooth
-/XBee.jpg> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bl
-uetooth/Xbee_pin_diag.jpg>]
+ [6 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Comm
+unication/XBee.jpg> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_an
+d_Bluetooth Communication/Xbee_pin_diag.jpg>]
 Overfull \hbox (12.06747pt too wide) in paragraph at lines 91--95
 \OT1/cmr/bx/n/10.95 dwc[]otg.lpm[]enable=0 con-sole=ttyAMA0,115200 con-sole=tty
 1
@@ -211,14 +211,14 @@ File: HC-05_connection.JPG Graphic file (type jpg)
 <use HC-05_connection.JPG>
 Package pdftex.def Info: HC-05_connection.JPG used on input line 114.
 (pdftex.def)             Requested size: 284.52756pt x 315.3463pt.
- [8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetooth
-/HC-05_connection.JPG>]
+ [8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Comm
+unication/HC-05_connection.JPG>]
 ("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.
 sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Xbee_and_Bluetooth\Blu
-etooth.py
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Xbee_and_Bluetooth Communi
+cation\Bluetooth.py"
 Overfull \hbox (22.15875pt too wide) in paragraph at lines 8--10
 [][][][][][][][][][][] 
  []
@@ -243,9 +243,8 @@ File: img_2.JPG Graphic file (type jpg)
  <use img_2.JPG>
 Package pdftex.def Info: img_2.JPG used on input line 153.
 (pdftex.def)             Requested size: 284.52756pt x 505.83386pt.
- [11 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetoot
-h/img_2.JPG>]
-<img_1.JPG, id=49, 4175.6pt x 2348.775pt>
+ [11 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Com
+munication/img_2.JPG>] <img_1.JPG, id=49, 4175.6pt x 2348.775pt>
 File: img_1.JPG Graphic file (type jpg)
  <use img_1.JPG>
 Package pdftex.def Info: img_1.JPG used on input line 160.
@@ -262,12 +261,12 @@ File: Capture2.jpg Graphic file (type jpg)
  <use Capture2.jpg>
 Package pdftex.def Info: Capture2.jpg used on input line 177.
 (pdftex.def)             Requested size: 284.52756pt x 446.04306pt.
- [12 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetoot
-h/img_1.JPG> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_
-Bluetooth/Capture1.jpg>] <Capture3.jpg, id=55, 762.59906pt x 378.66469pt>
+ [12 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Com
+munication/img_1.JPG> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_
+and_Bluetooth Communication/Capture1.jpg>]
+<Capture3.jpg, id=55, 762.59906pt x 378.66469pt>
 File: Capture3.jpg Graphic file (type jpg)
-
-<use Capture3.jpg>
+ <use Capture3.jpg>
 Package pdftex.def Info: Capture3.jpg used on input line 183.
 (pdftex.def)             Requested size: 284.52756pt x 141.27666pt.
 
@@ -279,60 +278,62 @@ File: Capture4.jpg Graphic file (type jpg)
  <use Capture4.jpg>
 Package pdftex.def Info: Capture4.jpg used on input line 189.
 (pdftex.def)             Requested size: 284.52756pt x 174.10182pt.
- [13 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetoot
-h/Capture2.jpg>] <Capture5.jpg, id=61, 755.07094pt x 467.49657pt>
+ [13 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Com
+munication/Capture2.jpg>] <Capture5.jpg, id=61, 755.07094pt x 467.49657pt>
 File: Capture5.jpg Graphic file (type jpg)
- <use Capture5.jpg>
+
+<use Capture5.jpg>
 Package pdftex.def Info: Capture5.jpg used on input line 195.
 (pdftex.def)             Requested size: 227.62204pt x 140.92772pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[14 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetooth
-/Capture3.jpg> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_an
-d_Bluetooth/Capture4.jpg>]
+[14 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Comm
+unication/Capture3.jpg> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbe
+e_and_Bluetooth Communication/Capture4.jpg>]
 <rasp_pi_to_xbee.jpg, id=65, 822.07124pt x 1118.1775pt>
 File: rasp_pi_to_xbee.jpg Graphic file (type jpg)
 
 <use rasp_pi_to_xbee.jpg>
 Package pdftex.def Info: rasp_pi_to_xbee.jpg used on input line 205.
 (pdftex.def)             Requested size: 199.16928pt x 270.91032pt.
- [15 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetoot
-h/Capture5.jpg> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_a
-nd_Bluetooth/rasp_pi_to_xbee.jpg>]
+ [15 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Com
+munication/Capture5.jpg> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xb
+ee_and_Bluetooth Communication/rasp_pi_to_xbee.jpg>]
 <Capture6.jpg, id=71, 755.07094pt x 344.78813pt>
 File: Capture6.jpg Graphic file (type jpg)
  <use Capture6.jpg>
 Package pdftex.def Info: Capture6.jpg used on input line 215.
 (pdftex.def)             Requested size: 284.52756pt x 129.92128pt.
- [16 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetoot
-h/Capture6.jpg>] <img_3.jpg, id=75, 4175.6pt x 2348.775pt>
+ [16 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Com
+munication/Capture6.jpg>] <img_3.jpg, id=75, 4175.6pt x 2348.775pt>
 File: img_3.jpg Graphic file (type jpg)
  <use img_3.jpg>
 Package pdftex.def Info: img_3.jpg used on input line 222.
 (pdftex.def)             Requested size: 284.52756pt x 160.0228pt.
- [17 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Xbee_and_Bluetoot
-h/img_3.jpg>]
-(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Xbee_and_Bluetooth\Xbe
-e_and_Bluetooth_doc.aux) ) 
+
+[17 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/Xbee_and_Bluetooth Comm
+unication/img_3.jpg>]
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\Xbee_and_Bluetooth Communi
+cation\Xbee_and_Bluetooth_doc.aux") ) 
 Here is how much of TeX's memory you used:
  2700 strings out of 493921
- 38184 string characters out of 3147261
+ 38283 string characters out of 3147261
  122128 words of memory out of 3000000
  5987 multiletter control sequences out of 15000+200000
  9325 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,6n,43p,835b,1674s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Xbee_and_Bluetooth_doc.pdf (17 pages, 13223116 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Xbee_and_Bluetooth_doc.pdf (17 pages, 13223370 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -7,6 +7,6 @@
 \contentsline {subsection}{\numberline {5.2}XBee }{5}
 \contentsline {subsection}{\numberline {5.3}Enabling UART Communication on Raspberry Pi:}{7}
 \contentsline {section}{\numberline {6}Experiment}{8}
-\contentsline {subsection}{\numberline {6.1}Sending and Receiving Data serially for Raspberry Pi using HC-05 (Bluetooth Module):}{8}
-\contentsline {subsection}{\numberline {6.2}Sending and Receiving Data serially for Raspberry Pi using XBee Module:}{12}
+\contentsline {subsection}{\numberline {6.1}Communication between Rpi and Android device using HC-05 (Bluetooth Module):}{8}
+\contentsline {subsection}{\numberline {6.2}Communication between Rpi and PC using XBee Module:}{12}
 \contentsline {section}{\numberline {7}References}{17}
