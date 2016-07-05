@@ -1,0 +1,405 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  5 JUL 2016 17:03
+entering extended mode
+**Interrupt.tex
+
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\Interrupt.te
+x
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.
+sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count87
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count88
+\lst@currlwidth=\dimen103
+\lst@column=\count89
+\lst@pos=\count90
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count91
+\lst@lineno=\count92
+\lst@maxwidth=\dimen106
+
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count93
+\lst@skipnumbers=\count94
+\lst@framebox=\box27
+)
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ ("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\Interrupt.au
+x)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+\c@lstlisting=\count96
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen110
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks17
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+ [1
+
+{C:/Users/Aditya Kumar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\Interrupt.to
+c
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 7.
+
+Overfull \hbox (2.38469pt too wide) in paragraph at lines 8--8
+ [][] []\OT1/cmr/m/n/10.95 Communication be-tween RPi and An-droid de-vice us-i
+ng UART 
+ []
+
+)
+\tf@toc=\write3
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+<SPI.jpg, id=17, 345.54094pt x 231.11343pt>
+File: SPI.jpg Graphic file (type jpg)
+ <use SPI.jpg>
+Package pdftex.def Info: SPI.jpg used on input line 67.
+(pdftex.def)             Requested size: 276.43312pt x 184.89099pt.
+
+<SPI1.jpg, id=18, 464.4853pt x 243.91125pt>
+File: SPI1.jpg Graphic file (type jpg)
+ <use SPI1.jpg>
+Package pdftex.def Info: SPI1.jpg used on input line 69.
+(pdftex.def)             Requested size: 325.1375pt x 170.7367pt.
+ [4]
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\external_GPI
+O_interrupt.py [5 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Inte
+rrupt/SPI.jpg> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Interru
+pt/SPI1.jpg>]
+Overfull \hbox (152.46533pt too wide) in paragraph at lines 8--9
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 15--16
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (145.89526pt too wide) in paragraph at lines 24--25
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (145.89526pt too wide) in paragraph at lines 25--26
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (47.34424pt too wide) in paragraph at lines 28--29
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 35--76
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[6]
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\external_int
+errupt_thread.py
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 5--6
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.90479pt too wide) in paragraph at lines 6--7
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 7--8
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 8--10
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[7]
+Overfull \hbox (244.44629pt too wide) in paragraph at lines 52--54
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (251.01636pt too wide) in paragraph at lines 55--57
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 65--66
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) [8] <bluetooth.png, id=36, 451.6875pt x 521.95pt>
+File: bluetooth.png Graphic file (type png)
+ <use bluetooth.png>
+Package pdftex.def Info: bluetooth.png used on input line 92.
+(pdftex.def)             Requested size: 180.67178pt x 208.77629pt.
+
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\serial_inter
+rupt_blue.py
+Overfull \hbox (546.66943pt too wide) in paragraph at lines 9--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 20--21
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[9 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Interrupt/bluetooth
+.png>]
+Overfull \hbox (47.34424pt too wide) in paragraph at lines 27--28
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (172.17554pt too wide) in paragraph at lines 29--30
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (172.17554pt too wide) in paragraph at lines 53--55
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (152.46533pt too wide) in paragraph at lines 56--58
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 66--67
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[10]) <rpi_with_arduino_spi.jpg, id=43, 456.95718pt x 356.0803pt>
+File: rpi_with_arduino_spi.jpg Graphic file (type jpg)
+
+<use rpi_with_arduino_spi.jpg>
+Package pdftex.def Info: rpi_with_arduino_spi.jpg used on input line 104.
+(pdftex.def)             Requested size: 182.77963pt x 142.4296pt.
+
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\spi_interrup
+t.py [11 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Interrupt/rpi
+_with_arduino_spi.jpg>]
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 42--44
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 45--47
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 55--56
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) [12]
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\spi_slave.in
+o
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 2.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
+ [13])
+<rpi_with_arduino.jpg, id=55, 584.93532pt x 342.5297pt>
+File: rpi_with_arduino.jpg Graphic file (type jpg)
+
+<use rpi_with_arduino.jpg>
+Package pdftex.def Info: rpi_with_arduino.jpg used on input line 120.
+(pdftex.def)             Requested size: 292.46693pt x 171.26442pt.
+
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\i2c_interrup
+t.py [14 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Interrupt/rpi
+_with_arduino.jpg>]
+Overfull \hbox (165.60547pt too wide) in paragraph at lines 41--43
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (132.75513pt too wide) in paragraph at lines 44--46
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[15]
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 54--55
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\i2c_switch_p
+ress.ino) [16] <arduino.png, id=65, 671.50874pt x 377.15906pt>
+File: arduino.png Graphic file (type png)
+
+<use arduino.png>
+Package pdftex.def Info: arduino.png used on input line 138.
+(pdftex.def)             Requested size: 470.05292pt x 264.00954pt.
+
+Overfull \hbox (110.05292pt too wide) in paragraph at lines 137--140
+[]  
+ []
+
+[17 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board_Copy/Interrupt/arduino.
+png>]
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board_Copy\Interrupt\Interrupt.au
+x) ) 
+Here is how much of TeX's memory you used:
+ 2848 strings out of 493921
+ 40447 string characters out of 3147261
+ 132798 words of memory out of 3000000
+ 6122 multiletter control sequences out of 15000+200000
+ 9325 words of font info for 33 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,6n,43p,475b,1598s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmt
+t10.pfb>
+Output written on Interrupt.pdf (17 pages, 516059 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
