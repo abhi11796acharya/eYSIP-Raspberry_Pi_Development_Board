@@ -92,7 +92,16 @@ contents={\includegraphics{logo}}
 
 \chapter[Project Tag]{Raspberry Pi Hardware Development \& Tutorials}
 \section*{Abstract}
-Interfacing LED, switch, LCD and ICs on Raspberry Pi. Create a module of each device interfaced. Communication between Raspberry Pi and other device using Zigbee and Bluetooth module.Communication between Raspberry Pi and Firebird V using SPI, I2C and UART protocol. Create documentation and video tutorial explaining individual module. Design PCB for the devices interfaced with Raspberry Pi.
+The motive of this project is to create learning materials based on Raspberry Pi. Interfacing Raspberry Pi with Firebird V Robot will enhance the capabilities of the robot to do lot more tasks.\\ 
+This project includes:
+\begin{itemize}
+    \item Interfacing LED, Switch, LCD and ICs on Raspberry Pi
+    \item    Communication between Raspberry Pi and other device using Zigbee and Bluetooth module
+    \item Communication between Raspberry Pi and Firebird V using SPI, I2C and UART protocol
+    \item Documentation and video tutorials explaining individual module
+    \item Designing PCB for the devices interfaced with Raspberry Pi
+\end{itemize}
+
 
 \subsection*{Completion status}
 \begin{itemize}
@@ -131,89 +140,96 @@ Interfacing LED, switch, LCD and ICs on Raspberry Pi. Create a module of each de
   \item List of hardware 
   \begin{enumerate}
       \item Raspberry Pi \\
+      \href{www.cdn-shop.adafruit.com/pdfs/raspberrypi2modelb.pdf} {Download Datasheet}
+      \href{http://www.amazon.in/Raspberry-Pi-Model-1GB-Complete/dp/B00T2U7R7I} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{RPi}
         \caption{Raspberry Pi}
       \end{figure}
-      \href{https://cdn-shop.adafruit.com/pdfs/raspberrypi2modelb.pdf} {Download link}
-      \href{http://www.amazon.in/Raspberry-Pi-Model-1GB-Complete/dp/B00T2U7R7I} {Vendor Link}
+      
       \item FireBird V Robot \\
+      \href{www.atmel.com/Images/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf} {Download Datasheet}
+      \href{http://www.nex-robotics.com/products/fire-bird-v-robots/fire-bird-v-atmega2560-robotic-research-platform.html} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{Firebird_V_robot}
         \caption{Firebird V robot}
       \end{figure}
-      \href{http://www.atmel.com/Images/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf} {Download link}
-      \href{http://www.nex-robotics.com/products/fire-bird-v-robots/fire-bird-v-atmega2560-robotic-research-platform.html} {Vendor Link}
+      
       \item LED
       \item Resistor
       \item Switch
       \item LCD   \\
+      \href{www.agspecinfo.com/pdfs/J/JHD162A.pdf} {Download Datasheet}
+      \href{http://www.amazon.in/JCE-16x2-LCD-Display/dp/B00OVY28M4} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{LCD}
         \caption{LCD}
       \end{figure}
-      \href{http://www.agspecinfo.com/pdfs/J/JHD162A.PDF} {Download link}
-      \href{http://www.amazon.in/JCE-16x2-LCD-Display/dp/B00OVY28M4} {Vendor Link}
       \newpage
       \item MCP23017 IC     \\
+      \href{www.cdn-shop.adafruit.com/datasheets/mcp23017.pdf} {Download Datasheet}
+      \href{http://www.smddevices.com/} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{MCp23017}
         \caption{MCP23017 Port Expander IC}
       \end{figure}
-      \href{https://cdn-shop.adafruit.com/datasheets/mcp23017.pdf} {Download link}
-      \href{http://www.smddevices.com/} {Vendor Link}
       \item MCP3008 IC       \\
+      \href{www.cdn-shop.adafruit.com/datasheets/MCP3008.pdf} {Download Datasheet}
+      \href{http://www.dnatechindia.com/MCP3008-10-Bit-ADC.html} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{Mcp3008}
         \caption{ADC MCP3008 IC}
       \end{figure}
-      \href{https://cdn-shop.adafruit.com/datasheets/MCP3008.pdf} {Download link}
-      \href{http://www.dnatechindia.com/MCP3008-10-Bit-ADC.html} {Vendor Link}
       \item Sharp Sensor      \\
+      \href{www.sharpsma.com/webfm_send/1208} {Download Datasheet}
+      \href{http: //www.ebay.in/itm/262401450416?aff_source=Sok-Goog} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{sharp}
         \caption{Sharp IR Sensor}
       \end{figure}
-      \href{http://www.sharpsma.com/webfm_send/1208} {Download link}
-      \href{http: //www.ebay.in/itm/262401450416?aff_source=Sok-Goog} {Vendor Link}
       \item LM35 Temperature Sensor    \\
+      \href{www.ti.com/lit/ds/symlink/lm35.pdf} {Download Datasheet}
+      \href{http://www.amazon.in/Robo-India-Temperature-Sensor-LM35/dp/B00WO5AFPE} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{lm35}
         \caption{LM35 Temperature sensor}
       \end{figure}
-      \href{http://www.ti.com/lit/ds/symlink/lm35.pdf} {Download link}
-      \href{http://www.amazon.in/Robo-India-Temperature-Sensor-LM35/dp/B00WO5AFPE} {Vendor Link}
+      
       \item PCA9685 PWM Driver IC  \\
+      \href{www.cdn-shop.adafruit.com/datasheets/PCA9685.pdf} {Download Datasheet}
+      \href{http://www.amazon.in/Channel-Servo-Motor-Driver-Controller-PCA9685/dp/B01D4I8KII?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a4459339-54b9-4883-ac3e-2de2611b95a1} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{PCA9685}
         \caption{PCA9685 PWM Driver IC}
       \end{figure}
-      \href{https://cdn-shop.adafruit.com/datasheets/PCA9685.pdf} {Download link}
-      \href{http://www.amazon.in/Channel-Servo-Motor-Driver-Controller-PCA9685/dp/B01D4I8KII?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a4459339-54b9-4883-ac3e-2de2611b95a1} {Vendor Link}
       \item L293D Motor Driver IC       \\
+      \href{www.ti.com/lit/ds/symlink/l293.pdf} {Download Datasheet}
+      \href{http://www.amazon.in/L293D-Push-Pull-Four-Channel-Stepper-Driver/dp/B00MYZPL4Y?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a4459339-54b9-4883-ac3e-2de2611b95a1} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.4]{L293D}
-        \caption{L293d motor Driver IC}
+        \caption{L293D Motor Driver IC}
       \end{figure}
-      \href{http://www.ti.com/lit/ds/symlink/l293.pdf} {Download link}
-      \href{http://www.amazon.in/L293D-Push-Pull-Four-Channel-Stepper-Driver/dp/B00MYZPL4Y?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a4459339-54b9-4883-ac3e-2de2611b95a1} {Vendor Link}
       \item Capacitor
-      \item DC Motor
+      \item DC Motor  \\
+      \href{www.skillrextechnology.com/wp-content/uploads/2015/09/BO-motor-L-shape-60-rpm.pdf} {Download Datasheet}
+      \href{http://www.amazon.in/DC-Hobby-BO-Motor-100/dp/B00U3SQ4QI?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=eb9a03a0-9790-4e4b-a18b-993e01fdd975} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{dc}
         \caption{DC motor}
       \end{figure}
-      \item Servo Motor
+      \item Servo Motor \\
+      \href{www.goteckrc.com/Download/STD\%20Servo/GS-5515MG.pdf} {Download Datasheet}
+      \href{http://www.amazon.in/Robodo-Electronics-TowerPro-MG995-Servo/dp/B00MTH0RMI?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=eb9a03a0-9790-4e4b-a18b-993e01fdd975} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{servo}
@@ -221,6 +237,8 @@ Interfacing LED, switch, LCD and ICs on Raspberry Pi. Create a module of each de
       \end{figure}
       \item 9 V battery
       \item Xbee Module  \\
+      \href{www.sparkfun.com/datasheets/Wireless/Zigbee/XBee-Datasheet.pdf} {Download Datasheet}
+      \href{http://www.amazon.in/XBee-2mW-Wire-Antenna-ZigBee/dp/B007R9U1QA?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a4459339-54b9-4883-ac3e-2de2611b95a1} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{Xbee-1}
@@ -231,24 +249,22 @@ Interfacing LED, switch, LCD and ICs on Raspberry Pi. Create a module of each de
         \includegraphics[scale=0.6]{Xbee}
         \caption{Xbee pin diagram}
       \end{figure}
-      \href{https://www.sparkfun.com/datasheets/Wireless/Zigbee/XBee-Datasheet.pdf} {Download link}
-      \href{http://www.amazon.in/XBee-2mW-Wire-Antenna-ZigBee/dp/B007R9U1QA?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a4459339-54b9-4883-ac3e-2de2611b95a1} {Vendor Link}
       \item Bluetooth Module      \\
+      \href{www.linotux.ch/arduino/HC-0305_serial_module_AT_commamd_set_201104_revised.pdf} {Download Datasheet}
+      \href{http://www.amazon.in/Verve-VTA009-Bluetooth-Module-HC-05/dp/B00S15XTG8?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a4459339-54b9-4883-ac3e-2de2611b95a1} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{blue}
         \caption{Bluetooth HC-05}
       \end{figure}
-      \href{http://www.linotux.ch/arduino/HC-0305_serial_module_AT_commamd_set_201104_revised.pdf} {Download link}
-      \href{http://www.amazon.in/Verve-VTA009-Bluetooth-Module-HC-05/dp/B00S15XTG8?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=a4459339-54b9-4883-ac3e-2de2611b95a1} {Vendor Link}
       \item Arduino UNO   \\
+      \href{www.mouser.com/pdfdocs/Gravitech_ATMEGA328_datasheet.pdf} {Download Datasheet}
+      \href{http://www.amazon.in/Arduino-UNO-board-DIP-ATmega328P/dp/B008GRTSV6} {Vendor Details}
       \begin{figure}[H]
         \centering
         \includegraphics[scale=0.6]{uno}
         \caption{Arduino UNO}
       \end{figure}
-      \href{http://www.mouser.com/pdfdocs/Gravitech_ATMEGA328_datasheet.pdf} {Download link}
-      \href{http://www.amazon.in/Arduino-UNO-board-DIP-ATmega328P/dp/B008GRTSV6} {Vendor Link}
   \end{enumerate}
 \end{itemize}
 
@@ -257,7 +273,7 @@ Interfacing LED, switch, LCD and ICs on Raspberry Pi. Create a module of each de
   \item List of software used 
   \begin{enumerate}
       \item MobaXterm Personal Edition \\
-      \href{http://mobaxterm.mobatek.net/MobaXterm_Setup_9.1.msi} {Download link}
+      \href{http://mobaxterm.mobatek.net/MobaXterm_Setup_9.1.msi} {Download Link}
       \item Raspbian Jessie   \\
       \href{https://downloads.raspberrypi.org/raspbian_latest}{Download Link}
       \item Atmel Studio 6.0 \\
@@ -324,45 +340,41 @@ Since I2C interface is disabled by default. So, in following steps we have expla
 			\centering
 			\caption{[4]}
 		\end{figure} 
-		\newpage
 		\item Then select \textit{option A7 I2C} 
 		\newline
-		\begin{figure}[h!]
+		\begin{figure}[H]
 			\includegraphics[scale=0.6]{i2c_3}
 			\centering
 			\caption{[4]}
 		\end{figure}
-		\item It will ask to enable the ARM I2C interface, click \textit{YES}.
-		\newline
-		\begin{figure}[h!]
+		\item It will ask to enable the ARM I2C interface, click \textit{YES}.\\
+		\begin{figure}[H]
 			\includegraphics[scale=0.6]{i2c_4}
 			\centering
 			\caption{[4]}
 		\end{figure}
-		\newpage
 		\item Then it will ask if you would like I2C kernel module to be uploaded by default. Select\textit{YES}.
-		\begin{figure}[h!]
+		\begin{figure}[H]
 			\includegraphics[scale=0.6]{i2c_5}
 			\centering
 			\caption{[4]}
 		\end{figure}
 		\item I2C kernel module will now be loaded by default.Click \textit{OK}
-		\begin{figure}[h!]
+		\begin{figure}[H]
 			\includegraphics[scale=0.6]{i2c_6}
 			\centering
 			\caption{[4]}
 		\end{figure}
 		\item Select Finish to return to command line.
 		\item Next we need to edit the modules file using : \newline \textit{sudo nano /etc/modules} 
-		\begin{figure}[h!]
+		\begin{figure}[H]
 			\includegraphics[scale=0.6]{i2c_7}
 			\centering
 			\caption{[4]}
 		\end{figure}
-		\newpage
 		\item Add the following two lines : \newline \textit{i2c-bcm2708 \newline i2c-dev}
 		
-		\begin{figure}[h!]
+		\begin{figure}[H]
 			\includegraphics[scale=0.6]{i2c_8}
 			\centering
 			\caption{[4]}
