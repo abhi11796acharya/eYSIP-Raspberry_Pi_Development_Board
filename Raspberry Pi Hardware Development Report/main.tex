@@ -3,6 +3,7 @@
 %-------------------------------Start of the Preable------------------------------------------------
 \usepackage[english]{babel}
 \usepackage{blindtext}
+\usepackage{float}
 %packagr for hyperlinks
 \usepackage{hyperref}
 \hypersetup{
@@ -94,11 +95,33 @@ contents={\includegraphics{logo}}
 Interfacing LED, switch, LCD and ICs on Raspberry Pi. Create a module of each device interfaced. Communication between Raspberry Pi and other device using Zigbee and Bluetooth module.Communication between Raspberry Pi and Firebird V using SPI, I2C and UART protocol. Create documentation and video tutorial explaining individual module. Design PCB for the devices interfaced with Raspberry Pi.
 
 \subsection*{Completion status}
-We have successfully developed the modules on interfacing led, switch, MCP23017 (Port Expander IC), MCP3008 (Analog to Digital Converter IC), Sharp Sensor, Temperature Sensor, PCA9685 (PWM Driver IC), L293D Motor Driver IC, DC motor, Servo Motor and LCD.\\
-Prepared Video tutorial and documentation on the modules such as how to access GPIO pins of RPi, How to interface port expander IC, I2C Enabling, SPI Enabling, How to interface DC motor using PWM Driver IC, External interrupt on Raspberry Pi, How to interface Sharp sensor.\\
-Accomplished communication using Xbee and Bluetooth module between Raspberry Pi and other device. Generated serial,SPI and I2C interrupt on Raspberry Pi. \\
-Produced PCBs for led and switch connected with GPIO pins, LCD connected with port expander IC, DC motor and servo motor connected with PCA9685 PWM driver IC and Xbee and Bluetooth module.
-
+\begin{itemize}
+    \item \textbf{Task 1:}  \\ 
+            Developed different modules for Raspberry Pi \\
+            E.g. PWM Driver IC PCA9685, ADC, Port Expander etc. \\
+    \item \textbf{Task 2:} \\
+            Communication between Rpi and other \\
+            device through Xbee and Bluetooth Module \\
+    \item \textbf{Task 3:} \\
+            Interfacing LCD with Raspberry Pi  \\
+    \item \textbf{Task 4:}  \\
+            Communication between Raspberry Pi and \\
+            Firebird V using UART protocol    \\
+    \item \textbf{Task 5:}  \\
+            Communication between Raspberry Pi  
+            and Arduino UNO       
+            using I2C and SPI protocol     \\
+    \item \textbf{Task 6:} \\
+            Designed PCBs for \\
+            \begin{enumerate}
+            \item LCD connected with port expander IC MCP23017 IC
+            \item LM35 temperature sensor and Sharp IR sensor with ADC IC MCP3008
+            \item PWM driver IC PCA9685 to drive DC motor and Servo motor 
+            \item Xbee and Bluetooth module 
+            \end{enumerate}
+              
+\end{itemize}
+    
 
 
 \section{Hardware parts}
@@ -178,11 +201,15 @@ Produced PCBs for led and switch connected with GPIO pins, LCD connected with po
 
 \section{Accessing GPIO pins of Raspberry Pi}
 \flushleft
+In this experiment we have interfaced an led and switch. Resistor is connected with led to limit the current. \\
+\textbf{Problem Statement} \\
+When switch is pressed led will turn on. Again when switch is pressed led will turn off.\\
 \textbf{Circuit Diagram}\\
-\centering
-\includegraphics[scale=0.6]{GPIO}
-\flushleft
-Above fig. shows circuit diagram.
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.6]{GPIO}
+    \caption{}
+\end{figure}
 \subsection*{Assembly of hardware}
 \subsection*{Step 1}
 One pin of the push button is connected to Ground(Pin 9).
@@ -193,7 +220,11 @@ The anode of led is connected to IC pin 35 of raspberry pi.
 \subsection*{Step 4}
 The cathode of led is connected to the the resistor of 300 ohms which
 is then connected to the ground.
-\section{I2C Interface Enabling in Raspberry Pi}
+
+\section{Enabling I2C interface in Raspberry Pi}
+I2C stands for Inter Integrated Circuit. It is a communication protocol in which many devices are connected with two signal line SDA(Serial Data) and Serial Clock(SCL).
+Since I2c interface is disabled by default. So, in following steps we have explained how to enable I2C interface on RPi. 
+\textbf{Steps to enable I2C interface on RPi}
 \begin{enumerate}
 		\item Open MobaXterm. 
 		\item Establish SSH connection to R-Pi.
@@ -270,37 +301,30 @@ is then connected to the ground.
 			\end{figure}	
 	\end{enumerate}
 \newpage
-\section{Interfacing Port Expander MCP23017 IC}
-\flushleft
-\textbf{Circuit Diagram}\\
-\centering
-\includegraphics[scale=0.4]{port_expander_lcd}
-\flushleft
-\textbf{Schematic Diagram}\\
-\centering
-\includegraphics[scale= 0.8]{LCD_schematic}
-\flushleft
-\textbf{PCB Layout}\\
-\centering
-\includegraphics[scale= 0.3]{lcd_pcb_layout}
-\flushleft
-Above figure shows our PCB Layout.
 
-\section{Interfacing ADC IC MCP3008}
-We have interfaced Analog to Digital Converter IC with Raspberry Pi because it does not have any Analog pins.\\
+\section{Interfacing Port Expander MCP23017 IC}
+In this experiment we have interfaced port expander MCP23017 IC with RPi. Port expander is used to increase GPIO pins of RPi.  \\
+\textbf{Problem Statement}
+Interface an LCD with port expander MCP23017 IC and display some message.\\
 \textbf{Circuit Diagram}\\
-\centering 
-\includegraphics[scale=0.4]{lm35_interfacing}
-\flushleft
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.4]{port_expander_lcd}
+    \caption{LCD connected to MCP23017 IC}
+\end{figure}
+\newpage
 \textbf{Schematic Diagram}\\
-\centering
-\includegraphics[scale=0.4]{adc_schematic}
-\flushleft
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale= 0.8]{LCD_schematic}
+    \caption{Eagle Schematic}
+\end{figure}
 \textbf{PCB Layout}\\
-\centering
-\includegraphics[scale=0.4]{adc_layout}
-\flushleft
-Fig. shows PCB Layout
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale= 0.4]{lcd_pcb_layout}
+    \caption{PCB Layout}
+\end{figure}
 \subsection*{Assembly of hardware}
 \subsection*{Step 1}
 Pin 9 (VDD) is connected to 5V
@@ -320,7 +344,45 @@ RS and Enable pins of the LCD are connected to GPB0 and GPB1 respectively.
 R/W pin is Grounded
 \subsection*{Step 9}
 Data pins D7,D6,D5 and D4 are connected to GPA7,GPA6,GPA5 and GPA4 respectively.
-\section*{Interfacing DC Motor}
+
+\section{Interfacing ADC IC MCP3008}
+\textbf{Description:} \\
+Raspberry Pi does not have internal ADC. So,to read the values of analog sensors 
+we need to provide external ADC. Here, we will be using MCP3008 IC. 
+The MCP3008 is a successive approximation 10bit 8-channel Analogue-to-digital 
+converter (ADC). It is cheap, easy to connect and doesnt require any additional 
+components.It uses the SPI bus protocol which is supported by the Pis GPIO 
+header.\\
+\textbf{Problem Statement:}
+Read the values of LM35 temperature sensor by using MCP3008 IC(ADC) and calibrate
+it by programming in python.
+\textbf{Circuit Diagram}\\
+\centering 
+\includegraphics[scale=0.4]{lm35_interfacing}
+\flushleft
+\textbf{Schematic Diagram}\\
+\centering
+\includegraphics[scale=0.4]{adc_schematic}
+\flushleft
+\textbf{PCB Layout}\\
+\centering
+\includegraphics[scale=0.4]{adc_layout}
+\flushleft
+Fig. shows PCB Layout
+
+\section{Interfacing DC Motor}
+\textbf{Description:} \\
+Normal DC gear-head motors require current greater than 250mA. Most of
+the ICs like 555 timer,74 series ICs cannot supply this amount of
+current.Instead if we directly connect motors to the output of any of the
+above IC's, they might get damaged. There is a need of a circuitry that
+can act as a bridge between the above mentioned ICs and the motors. This
+is where a motor driver plays a crucial role. It regulates the current owing through the circuit hence preventing any damage to the device.
+L293D is dual H-bridge motor driver ICs. Using these we can control the
+rotation of two motors in both clockwise and anti-clockwise direction. \\
+\textbf{Problem Statement:} \\
+Controlling the speed of DC motor by using Port expander IC MCP23017 and motor
+driver IC L293D. \\
 \textbf{Circuit Diagram}\\
 \centering
 \includegraphics[scale=0.6]{dc_motor_I2C}
@@ -347,6 +409,18 @@ Pin 1 (enable pin) of L293D is connected to GPB2.
 \subsection*{Step 9}
 Out 1 and Out 2 are connected to a DC motor.
 \section{Interfacing Servo motor using PWM Driver IC PCA9685}
+\textbf{Description:} \\
+Raspberry Pi has only one pin for PWM generation, which is pin number 12. So, if 
+we want to control the speed of more than one motor by changing its PWM then we 
+need PCA9685 motor driver IC.
+PCA9685 is an I2C-bus controlled 16-channel PWM Driver IC.Each PWM channel output 
+has its own 12-bit resolution (4096 steps) fixed frequency individual PWM 
+controller that operates at a programmable frequency from a typical of 24 Hz 
+to 1526 Hz with a duty cycle that is adjustable from 0% to 100% to allow the motor
+to be set to a specific PWM value. All outputs are set to the same PWM frequency.\\
+\textbf{Problem Statement:} \\
+Controlling the angle or duty ratio of servo motor using PCA9685 PWM Driver IC.
+\newpage
 \textbf{Circuit Diagram}\\
 \centering 
 \includegraphics[scale=0.6]{servo_motor_PCA9685}

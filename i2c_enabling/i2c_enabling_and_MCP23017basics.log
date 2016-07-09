@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  9 JUN 2016 23:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  9 JUL 2016 11:47
 entering extended mode
 **i2c_enabling_and_MCP23017basics.tex
 
-(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\i2c_enabling_and_MCP23017ba
-sic\i2c_enabling_and_MCP23017basics.tex
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\I2C_enabling\i2c_enabling_a
+nd_MCP23017basics.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -68,8 +68,8 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\i2c_enabling_and_MCP23017ba
-sic\i2c_enabling_and_MCP23017basics.aux)
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\I2C_enabling\i2c_enabling_a
+nd_MCP23017basics.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -106,8 +106,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/Aditya Kumar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\i2c_enabling_and_MCP23017ba
-sic\i2c_enabling_and_MCP23017basics.toc
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\I2C_enabling\i2c_enabling_a
+nd_MCP23017basics.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 6.
 )
@@ -159,14 +159,14 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [5 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enabling_and_MCP230
-17basic/i2c.jpg>] <i2c_1.png, id=24, 493.0922pt x 290.58563pt>
+ [5 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/i2c.jpg>] 
+<i2c_1.png, id=24, 493.0922pt x 290.58563pt>
 File: i2c_1.png Graphic file (type png)
-
-<use i2c_1.png>
+ <use i2c_1.png>
 Package pdftex.def Info: i2c_1.png used on input line 81.
 (pdftex.def)             Requested size: 312.99721pt x 142.26405pt.
- <i2c_2.png, id=26, 490.83376pt x 237.13594pt>
+
+<i2c_2.png, id=26, 490.83376pt x 237.13594pt>
 File: i2c_2.png Graphic file (type png)
  <use i2c_2.png>
 Package pdftex.def Info: i2c_2.png used on input line 87.
@@ -177,18 +177,15 @@ File: i2c_3.png Graphic file (type png)
  <use i2c_3.png>
 Package pdftex.def Info: i2c_3.png used on input line 94.
 (pdftex.def)             Requested size: 294.95421pt x 154.02661pt.
- [6 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enabling_and_MCP230
-17basic/i2c_1.png> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enab
-ling_and_MCP23017basic/i2c_2.png>] <i2c_4.png, id=34, 491.58656pt x 268.75406pt
->
+ [6 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/i2c_1.png>
+ <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/i2c_2.png>]
+<i2c_4.png, id=34, 491.58656pt x 268.75406pt>
 File: i2c_4.png Graphic file (type png)
  <use i2c_4.png>
 Package pdftex.def Info: i2c_4.png used on input line 101.
 (pdftex.def)             Requested size: 294.95421pt x 161.25368pt.
-
-[7 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enabling_and_MCP2301
-7basic/i2c_3.png> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enabl
-ing_and_MCP23017basic/i2c_4.png>]
+ [7 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/i2c_3.png>
+ <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/i2c_4.png>]
 <i2c_5.png, id=41, 490.08093pt x 274.02374pt>
 File: i2c_5.png Graphic file (type png)
  <use i2c_5.png>
@@ -210,9 +207,8 @@ Package pdftex.def Info: i2c_7.png used on input line 121.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enabling_and_MCP2301
-7basic/i2c_5.png> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enabl
-ing_and_MCP23017basic/i2c_6.png>]
+[8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/i2c_5.png> 
+<D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/i2c_6.png>]
 <i2c_8.png, id=49, 497.60907pt x 291.33844pt>
 File: i2c_8.png Graphic file (type png)
  <use i2c_8.png>
@@ -230,9 +226,8 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [9 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enabling_and_MCP230
-17basic/i2c_7.png> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enab
-ling_and_MCP23017basic/i2c_8.png>]
+ [9 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/i2c_7.png>
+ <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/i2c_8.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -245,40 +240,41 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- <i2c_9.png, id=55, 534.49687pt x 209.28188pt>
+
+<i2c_9.png, id=55, 534.49687pt x 209.28188pt>
 File: i2c_9.png Graphic file (type png)
  <use i2c_9.png>
 Package pdftex.def Info: i2c_9.png used on input line 141.
 (pdftex.def)             Requested size: 320.70059pt x 125.57007pt.
-
-[10 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enabling_and_MCP230
-17basic/i2c_9.png>] <RaspberryPi2_pinout.jpg, id=60, 570.13pt x 415.5525pt>
+ [10 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/i2c_9.png
+>]
+<RaspberryPi2_pinout.jpg, id=60, 570.13pt x 415.5525pt>
 File: RaspberryPi2_pinout.jpg Graphic file (type jpg)
 
 <use RaspberryPi2_pinout.jpg>
 Package pdftex.def Info: RaspberryPi2_pinout.jpg used on input line 152.
 (pdftex.def)             Requested size: 342.08064pt x 249.33342pt.
- [11 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/i2c_enabling_and_MCP23
-017basic/RaspberryPi2_pinout.jpg>]
-(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\i2c_enabling_and_MCP23017ba
-sic\i2c_enabling_and_MCP23017basics.aux) ) 
+ [11 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/I2C_enabling/Raspberry
+Pi2_pinout.jpg>]
+(D:\Internship\eYSIP-Raspberry_Pi_Development_Board\I2C_enabling\i2c_enabling_a
+nd_MCP23017basics.aux) ) 
 Here is how much of TeX's memory you used:
  1287 strings out of 493921
- 17703 string characters out of 3147261
+ 17541 string characters out of 3147261
  67161 words of memory out of 3000000
  4598 multiletter control sequences out of 15000+200000
  9325 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,7n,19p,462b,298s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on i2c_enabling_and_MCP23017basics.pdf (11 pages, 381469 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on i2c_enabling_and_MCP23017basics.pdf (11 pages, 381123 bytes).
 
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
