@@ -15,9 +15,9 @@
 *  [Switch_Led_With_Mcp23017](https://github.com/eYSIP-2016/eYSIP-Raspberry_Pi_Development_Board/tree/master/Code/IO_port_expander_experiments/Switch_Led_With_Mcp23017)
 
 #####  ADC Interfacing
-      ###### [Interface IR sensor](https://github.com/eYSIP-2016/eYSIP-Raspberry_Pi_Development_Board/tree/master/Code/ADC%20Interfacing/Interface%20IR%20sensor)
-      ###### [Interface temperature sensor](https://github.com/eYSIP-2016/eYSIP-Raspberry_Pi_Development_Board/tree/master/Code/ADC%20Interfacing/Interface%20temperature%20sensor)
-      ###### [Interface two ADC IC](https://github.com/eYSIP-2016/eYSIP-Raspberry_Pi_Development_Board/tree/master/Code/ADC%20Interfacing/Interface%20two%20ADC%20IC)
+* [Interface IR sensor](https://github.com/eYSIP-2016/eYSIP-Raspberry_Pi_Development_Board/tree/master/Code/ADC%20Interfacing/Interface%20IR%20sensor)
+* [Interface temperature sensor](https://github.com/eYSIP-2016/eYSIP-Raspberry_Pi_Development_Board/tree/master/Code/ADC%20Interfacing/Interface%20temperature%20sensor)
+* [Interface two ADC IC](https://github.com/eYSIP-2016/eYSIP-Raspberry_Pi_Development_Board/tree/master/Code/ADC%20Interfacing/Interface%20two%20ADC%20IC)
 
 #####  Xbee_and_Bluetooth Communication
 * Bluetooth and Xbee Communication
