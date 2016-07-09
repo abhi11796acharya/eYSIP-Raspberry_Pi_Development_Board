@@ -1,0 +1,400 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  9 JUL 2016 17:04
+entering extended mode
+**adc_interfacing_SPI.tex
+
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\6. ADC Interfacing\Documen
+t\adc_interfacing_SPI.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.
+sty"
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\6. ADC Interfacing\Documen
+t\adc_interfacing_SPI.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen110
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks17
+)
+\c@lstlisting=\count102
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+ [1
+
+{C:/Users/Aditya Kumar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\6. ADC Interfacing\Documen
+t\adc_interfacing_SPI.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 6.
+)
+\tf@toc=\write3
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+ [3]
+<mcp.jpg, id=17, 259.7203pt x 222.8325pt>
+File: mcp.jpg Graphic file (type jpg)
+ <use mcp.jpg>
+Package pdftex.def Info: mcp.jpg used on input line 58.
+(pdftex.def)             Requested size: 181.80296pt x 155.98167pt.
+ [4 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/6. ADC Interfacing/Docu
+ment/mcp.jpg>]
+<1.jpg, id=21, 322.95656pt x 509.65407pt>
+File: 1.jpg Graphic file (type jpg)
+ <use 1.jpg>
+Package pdftex.def Info: 1.jpg used on input line 84.
+(pdftex.def)             Requested size: 226.06804pt x 356.7554pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<2.jpg, id=22, 572.1375pt x 237.13594pt>
+File: 2.jpg Graphic file (type jpg)
+ <use 2.jpg>
+Package pdftex.def Info: 2.jpg used on input line 89.
+(pdftex.def)             Requested size: 400.49352pt x 165.994pt.
+
+Overfull \hbox (40.49352pt too wide) in paragraph at lines 89--91
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5] <3.jpg, id=26, 447.92343pt x 237.88875pt>
+File: 3.jpg Graphic file (type jpg)
+ <use 3.jpg>
+Package pdftex.def Info: 3.jpg used on input line 101.
+(pdftex.def)             Requested size: 313.54427pt x 166.52098pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/6. ADC Interfacing/Docum
+ent/1.jpg>] [7 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/6. ADC Inter
+facing/Document/2.jpg> <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/6. A
+DC Interfacing/Document/3.jpg>]
+<lm35_interfacing.jpg, id=34, 517.935pt x 374.14781pt>
+File: lm35_interfacing.jpg Graphic file (type jpg)
+
+<use lm35_interfacing.jpg>
+Package pdftex.def Info: lm35_interfacing.jpg used on input line 112.
+(pdftex.def)             Requested size: 362.55202pt x 261.90167pt.
+
+Overfull \hbox (2.55202pt too wide) in paragraph at lines 112--114
+ [][] 
+ []
+
+
+("C:\Users\Aditya Kumar\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\6. ADC Interfacing\Documen
+t\lm35_adc.py"
+Missing character: There is no ï in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no â in font cmti10!
+Missing character: There is no ˆ in font cmti10!
+Missing character: There is no ’ in font cmti10!
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no ™ in font cmti10!
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 16--17
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[8 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/6. ADC Interfacing/Docum
+ent/lm35_interfacing.jpg>]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 17.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 17.
+)
+<ckt.jpg, id=41, 377.91188pt x 310.91156pt>
+File: ckt.jpg Graphic file (type jpg)
+ <use ckt.jpg>
+Package pdftex.def Info: ckt.jpg used on input line 126.
+(pdftex.def)             Requested size: 264.5365pt x 217.6366pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9] <ckt_schematic.jpg, id=46, 657.2053pt x 471.26062pt>
+File: ckt_schematic.jpg Graphic file (type jpg)
+
+<use ckt_schematic.jpg>
+Package pdftex.def Info: ckt_schematic.jpg used on input line 140.
+(pdftex.def)             Requested size: 394.32622pt x 282.75856pt.
+
+Overfull \hbox (34.32622pt too wide) in paragraph at lines 140--142
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/6. ADC Interfacing/Docu
+ment/ckt.jpg>]
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\6. ADC Interfacing\Documen
+t\adc_IR_sensor.py"
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 16--17
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[11 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/6. ADC Interfacing/Docu
+ment/ckt_schematic.jpg>]
+Overfull \hbox (67.05444pt too wide) in paragraph at lines 34--35
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 41--42
+[][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 56--57
+[][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 57--58
+[][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 58--59
+[][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (86.76465pt too wide) in paragraph at lines 60--61
+[][][][][][][][] 
+ []
+
+
+Overfull \hbox (126.18506pt too wide) in paragraph at lines 61--62
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 62--63
+[][][][][] 
+ []
+
+[12]
+Overfull \hbox (47.34424pt too wide) in paragraph at lines 63--64
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) [13] <ckt_schematic2.jpg, id=60, 574.39594pt x 473.51906pt>
+File: ckt_schematic2.jpg Graphic file (type jpg)
+
+<use ckt_schematic2.jpg>
+Package pdftex.def Info: ckt_schematic2.jpg used on input line 162.
+(pdftex.def)             Requested size: 344.64021pt x 284.11362pt.
+ [14 <D:/Internship/eYSIP-Raspberry_Pi_Development_Board/6. ADC Interfacing/Doc
+ument/ckt_schematic2.jpg>]
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\6. ADC Interfacing\Documen
+t\adc2.py"
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 4--6
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 17--18
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (67.05444pt too wide) in paragraph at lines 34--35
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 41--42
+[][][][][][][][][][] 
+ []
+
+[15]
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 56--57
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 77--78
+[][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 78--79
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 81--82
+[][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 82--84
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) [16]
+Overfull \hbox (3.20584pt too wide) in paragraph at lines 175--176
+[]\OT1/cmr/m/n/10.95 www.raspberrypi-spy.co.ukanalogue-sensors-on-the-raspberry
+-pi-using-
+ []
+
+
+Overfull \hbox (31.12842pt too wide) in paragraph at lines 177--178
+[]\OT1/cmr/m/n/10.95 www.byteparadigm.com/applications/introduction-to-i2c-and-
+spi-protocols/ 
+ []
+
+[17]
+("D:\Internship\eYSIP-Raspberry_Pi_Development_Board\6. ADC Interfacing\Documen
+t\adc_interfacing_SPI.aux") ) 
+Here is how much of TeX's memory you used:
+ 2648 strings out of 493921
+ 37699 string characters out of 3147261
+ 133653 words of memory out of 3000000
+ 5939 multiletter control sequences out of 15000+200000
+ 9157 words of font info for 32 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,6n,43p,341b,1596s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on adc_interfacing_SPI.pdf (17 pages, 622125 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
