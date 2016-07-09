@@ -1,16 +1,3 @@
-'''
-
-Created: 23-04-2015 
-Last Modified: 23-06-2015
-Author: Saurav Shandilya (e-Yantra Team)
-Application: Development of Raspberry Pi controlled Firebird-V Robot.
-Hardware: Firebird-V Atmega2560 Robot and Raspberry Pi 1
-Python Version: 2.7
-
-----------------------------------
-
-
-'''
 
 #***********************Library Import Starts*********************
 import serial
