@@ -50,6 +50,16 @@
 
 ### Tutorials
 ##### Document
+* RPi_OS_Installation
+* Accessing GPIO pins of an RPi
+* I2C_Enabling
+* IO_port_expander_experiments
+* SPI_Enabling_and_basics
+* ADC Interfacing
+* Xbee_and_Bluetooth Communication
+* Interfacing_DC_MOTOR_with_RPi
+* Motor control using PWM
+* Interrupt
 ##### Video Tutorial
 
 
