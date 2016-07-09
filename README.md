@@ -18,14 +18,20 @@
       ###### [Interface two ADC IC](https://github.com/eYSIP-2016/eYSIP-Raspberry_Pi_Development_Board/tree/master/Code/ADC%20Interfacing/Interface%20two%20ADC%20IC)
 
 #####  Xbee_and_Bluetooth Communication
-#######  Bluetooth and Xbee Communication
+* Bluetooth and Xbee Communication
+
 #####  Interfacing_DC_MOTOR_with_RPi
-#######  Interface DC motor through MCP23017
+* Interface DC motor through MCP23017
+
 #####  Motor control using PWM
-####### PWM to DC motor through GPIO pins
-####### PWM to DC motor through PCA9685 IC
-####### PWM to servo motor through PCA9685 IC
+* PWM to DC motor through GPIO pins
+* PWM to DC motor through PCA9685 IC
+* PWM to servo motor through PCA9685 IC
+
 #####  Interrupt
+* GPIO pin Interrupt
+* Interrupt on RPi through Arduino
+* Interrupt using threading
 
 ### Documentation
 ##### Poster
