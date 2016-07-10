@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{GPIO pins on RPi}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Overview of GPIO pins}{2}{0}{1}
+\beamer@sectionintoc {2}{Write Your First Python Program}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{Led Interfacing}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Connections}{15}{0}{2}
+\beamer@subsectionintoc {2}{3}{Problem Statement}{18}{0}{2}

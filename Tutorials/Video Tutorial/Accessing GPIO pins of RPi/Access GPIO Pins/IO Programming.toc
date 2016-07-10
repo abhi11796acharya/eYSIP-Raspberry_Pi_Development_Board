@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {2}{Input-Output Ports in ATmega2560}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Overview of Ports}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{Acessing Ports}{15}{0}{1}
+\beamer@subsectionintoc {2}{3}{Examples}{56}{0}{1}
+\beamer@sectionintoc {3}{Write Your First Embedded C Program}{96}{0}{2}
+\beamer@subsectionintoc {3}{1}{Buzzer Interfacing}{96}{0}{2}
+\beamer@subsectionintoc {3}{2}{Programming Tools}{120}{0}{2}
+\beamer@subsectionintoc {3}{3}{C-code}{131}{0}{2}

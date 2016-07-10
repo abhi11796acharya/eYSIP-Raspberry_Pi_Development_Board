@@ -1,0 +1,33 @@
+\frametitle{Syntax for C-Program} \pause
+
+\begin{block}<1->{Main-Program} \pause
+\begin{semiverbatim}
+int main (void)
+\{
+\ \  buzzer_pin_config ();
+\ \  while(1)
+\ \   \{
+\ \ \ \ \ \ buzzer_on();
+\ \ \ \ \ \ _delay_ms();
+\ \ \ \ \ \ buzzer_off();
+\ \ \ \ \ \ _delay_ms();
+\ \   \}
+\}
+\end{semiverbatim}
+\end{block} \pause
+
+\begin{block}<2->{Functions}\pause
+\begin{semiverbatim}
+void buzzer_on (void)
+\{
+  \ \ \ PORTC =
+\}
+
+\hrule \hrule \pause
+void buzzer_off (void)
+\{
+  \ \ \ PORTC =
+\}
+  \end{semiverbatim}
+\end{block}
+
